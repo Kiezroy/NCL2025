@@ -16,7 +16,9 @@ Q2 - 10 points
 
 On what day was this domain first registered?
 
+![](attachments/Pasted%20image%2020250330103836.png)
 
+`2016-02-16 18:23:14`
 
 Q3 - 10 points
 
