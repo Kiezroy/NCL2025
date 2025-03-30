@@ -15,4 +15,7 @@ What is the email address of the employee who was compromised? (10 pts)
 
 Each employee is assigned a flag. What is the flag that was compromised? (20 pts)
 
-- Unzip the git_backup.zip and 
+- Unzip the git_backup.zip and find the commit hash
+- `git show` the hash for the flag
+
+	
