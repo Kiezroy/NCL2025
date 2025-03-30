@@ -4,16 +4,16 @@ Answer these questions about DNS. Make sure you enter the record type and not th
 
 What type of DNS record holds the DNSSEC public signing key?
 
-==DNSKEY==
+`DNSKEY`
 
 **Q2 - 10 points**
 
 What type of DNS record is used to map hostnames to IPv6 addresses?
 
-**AAAA**
+`AAAA`
 
 **Q3 - 10 points**
 
 What type of DNS record is used to delegate a DNS zone?
 
-**NS**
+`NS`
