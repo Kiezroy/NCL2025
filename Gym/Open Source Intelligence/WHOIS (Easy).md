@@ -41,4 +41,5 @@ Q5 - 10 points
 What organization manages the TLD used by cityinthe.cloud?
 
 ![](attachments/Pasted%20image%2020250330104249.png)
+
 `ARUBA PEC`
