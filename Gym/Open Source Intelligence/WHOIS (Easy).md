@@ -8,13 +8,15 @@ Q1 - 10 points
 
 Who is the registrar of this domain?
 
+![](attachments/Pasted%20image%2020250330103758.png)
 
+`Dynadot Inc`
 
 Q2 - 10 points
 
 On what day was this domain first registered?
 
-Answer...
+
 
 Q3 - 10 points
 
