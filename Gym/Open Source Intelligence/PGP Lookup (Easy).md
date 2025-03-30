@@ -26,3 +26,5 @@ Q3 - 15 points
 On what date does the above key expire (in UTC)?
 
 ![](attachments/Pasted%20image%2020250330105600.png)
+
+`2050-12-26`
