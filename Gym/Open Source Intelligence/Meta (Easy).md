@@ -4,7 +4,7 @@ Q1 - 10 points
 
 When was the image created? Round down to the nearest minute
 
-Answer...
+![](attachments/Pasted%20image%2020250330094504.png)
 
 
 Q2 - 10 points
