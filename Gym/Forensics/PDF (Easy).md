@@ -33,3 +33,7 @@ Q4 - 50 points
 
 What is the flag?
 
+- Look at the TextLayer area
+	![](attachments/Pasted%20image%2020250330160334.png)
+
+`SKY-PDRD-2390`
