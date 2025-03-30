@@ -13,3 +13,5 @@ What is the email address of the employee who was compromised? (10 pts)
 `gpeterson@mpd.hacknet.cityinthe.cloud`
 
 
+Each employee is assigned a flag. What is the flag that was compromised? (20 pts)
+
