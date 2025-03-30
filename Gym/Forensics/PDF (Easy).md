@@ -24,7 +24,7 @@ Q3 - 20 points
 
 What software was used to redact the file and insert a watermark?
 
-Answer...
+
 
 Q4 - 50 points
 
