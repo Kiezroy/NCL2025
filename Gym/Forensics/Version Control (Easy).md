@@ -18,4 +18,8 @@ Each employee is assigned a flag. What is the flag that was compromised? (20 pts
 - Unzip the git_backup.zip and find the commit hash
 - `git show` the hash for the flag
 
-	
+	![](attachments/Pasted%20image%2020250330154652.png)
+	![](attachments/Pasted%20image%2020250330154702.png)
+	![](attachments/Pasted%20image%2020250330154730.png)
+
+`-SKY-LRHX-4910`
