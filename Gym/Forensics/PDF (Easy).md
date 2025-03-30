@@ -6,6 +6,8 @@ Q1 - 15 points
 
 What is the name of the program that exported this PDF file?
 
+- Use exiftool
+
 
 
 Q2 - 15 points
