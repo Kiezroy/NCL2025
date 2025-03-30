@@ -26,8 +26,10 @@ What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartblee
 Q4 - 10 points
 
 What was the original RFC number that described Telnet?
-![](attachments/Pasted%20image%2020250330100557.png)
-`RFC 854`
+
+"Telnet was developed as secret technology in 1969 beginning with [RFC](https://en.wikipedia.org/wiki/RFC_\(identifier\) "RFC (identifier)") [15](https://datatracker.ietf.org/doc/html/rfc15)" - https://en.wikipedia.org/wiki/Telnet
+
+`RFC 15`
 
 Q5 - 10 points
 
