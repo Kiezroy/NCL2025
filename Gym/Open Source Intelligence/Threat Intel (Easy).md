@@ -41,4 +41,6 @@ Q6 - 10 points
 
 Complete the sentence: "Samy is my..."
 
-"The worm itself was relatively harmless; it carried a [payload](https://en.wikipedia.org/wiki/Payload_\(computing\) "Payload (computing)") that would display the string "but most of all, samy is my hero" on a victim's MySpace profile page as well as send Samy a friend request." - 
+"The worm itself was relatively harmless; it carried a [payload](https://en.wikipedia.org/wiki/Payload_\(computing\) "Payload (computing)") that would display the string "but most of all, samy is my hero" on a victim's MySpace profile page as well as send Samy a friend request." - https://en.wikipedia.org/wiki/Samy_(computer_worm)
+
+`hero`
