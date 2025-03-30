@@ -1,10 +1,36 @@
 https://www.metadata2go.com/view-metadata
 
-|     |
-| --- |
-|     |
-|     |
-|     |
-|     |
-|     |
-|     |
+Q1 - 10 points
+
+When was the image created? Round down to the nearest minute
+
+Answer...
+
+
+Q2 - 10 points
+
+What are the dimensions of the image? (ex: 800x600)
+
+Answer...
+
+Q3 - 10 points
+
+What is the make of the camera that took the picture?
+
+Answer...
+
+Q4 - 10 points
+
+What is the model of the camera that took the picture?
+
+Answer...
+
+Q5 - 10 points
+
+What is the exposure time for the picture? (ex: 1/200)
+
+Answer...
+
+Q6 - 20 points
+
+What are the GPS coordinates where the was the picture taken? (Any standard format is acceptable)
