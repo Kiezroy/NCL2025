@@ -5,3 +5,11 @@ One of our employee's computer was compromised and we saw this backup file leave
 **Cyber Command**
 
 What is the email address of the employee who was compromised? (10 pts)
+
+- Look at the logs folder and find the email
+
+	![](attachments/Pasted%20image%2020250330153525.png)
+
+`gpeterson@mpd.hacknet.cityinthe.cloud`
+
+
