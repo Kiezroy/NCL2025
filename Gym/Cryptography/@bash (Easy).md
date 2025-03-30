@@ -2,7 +2,8 @@ Cyber Command
 
 Our analysts have obtained password dumps storing hacker passwords. See if you can crack them.
 
-
+- Use cipher identifier: https://www.dcode.fr/cipher-identifier
+- Discover it is encrypted with 
 
 | User                                                                                                | Password Ciphertext | Answer |
 | --------------------------------------------------------------------------------------------------- | ------------------- | ------ |
