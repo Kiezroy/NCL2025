@@ -16,7 +16,9 @@ Q2 - 15 points
 
 What PDF version is this file?
 
+`exiftool api.pdf | grep -i version`
 
+`PDF Version                     : 1.7`
 
 Q3 - 20 points
 
