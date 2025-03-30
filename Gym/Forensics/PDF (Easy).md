@@ -8,13 +8,15 @@ What is the name of the program that exported this PDF file?
 
 - Use exiftool
 
+	![](attachments/Pasted%20image%2020250330155544.png)
 
+`Adobe Photoshop`
 
 Q2 - 15 points
 
 What PDF version is this file?
 
-Answer...
+
 
 Q3 - 20 points
 
