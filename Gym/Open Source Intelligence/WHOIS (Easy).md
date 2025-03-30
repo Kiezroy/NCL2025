@@ -24,13 +24,17 @@ Q3 - 10 points
 
 What is this domain's registry domain ID?
 
-Answer...
+![](attachments/Pasted%20image%2020250330103939.png)
+
+`D15CD1AC4DEB54207A5048A69B9FC0558-ARI`
 
 Q4 - 10 points
 
 What is the Top-Level Domain (TLD) of this domain?
 
-Answer...
+![](attachments/Pasted%20image%2020250330104019.png)
+
+`.cloud`
 
 Q5 - 10 points
 
