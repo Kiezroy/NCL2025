@@ -6,7 +6,8 @@ The hackers have hidden a message in this image. Find out what it is.
 
 What is the hidden flag in the image? (35 pts)
 
-┌──(kali㉿kali)-[~/Downloads]
-└─$ `strings Steg1.jpg | grep SKY`
+- Perform the strings command in Kali
+
+`strings Steg1.jpg | grep SKY`
 
 SKY-TVJI-2063
