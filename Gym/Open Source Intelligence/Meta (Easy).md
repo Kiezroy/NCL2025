@@ -11,7 +11,9 @@ Q2 - 10 points
 
 What are the dimensions of the image? (ex: 800x600)
 
-Answer...
+![](attachments/Pasted%20image%2020250330094830.png)
+
+`1024x768`
 
 Q3 - 10 points
 
