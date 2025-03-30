@@ -5,12 +5,15 @@ Q1 - 10 points
 
 What is the CVE of the original POODLE attack?
 
-CVE-2014-3566
+`CVE-2014-3566`
 
 Q2 - 10 points
 
 What version of VSFTPD contained the smiley face backdoor?
 
+
+
+`2.3.4`
 
 Q3 - 10 points
 
