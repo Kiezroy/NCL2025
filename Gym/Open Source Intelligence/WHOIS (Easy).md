@@ -1,0 +1,33 @@
+Use [ICANN's registration lookup tool](https://lookup.icann.org/en/lookup)
+
+**Cyber Command**
+
+Conduct open source intelligence data collection about cityinthe.cloud. Answer the following questions as they relate to the cityinthe.cloud domain.
+
+Q1 - 10 points
+
+Who is the registrar of this domain?
+
+
+
+Q2 - 10 points
+
+On what day was this domain first registered?
+
+Answer...
+
+Q3 - 10 points
+
+What is this domain's registry domain ID?
+
+Answer...
+
+Q4 - 10 points
+
+What is the Top-Level Domain (TLD) of this domain?
+
+Answer...
+
+Q5 - 10 points
+
+What organization manages the TLD used by cityinthe.cloud?
