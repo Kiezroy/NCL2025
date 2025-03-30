@@ -22,3 +22,6 @@ Q3 - 10 points
 
 What HTTP request header is used to identify the acceptable content types that can be returned?
 
+![](attachments/Pasted%20image%2020250330103523.png)
+
+`Accept`
