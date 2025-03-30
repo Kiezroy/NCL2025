@@ -36,3 +36,7 @@ What is the exposure time for the picture? (ex: 1/200)
 Q6 - 20 points
 
 What are the GPS coordinates where the was the picture taken? (Any standard format is acceptable)
+
+![](attachments/Pasted%20image%2020250330095037.png)
+
+`39 deg 52' 30.00" N, 20 deg 0' 36.00" E`
