@@ -19,19 +19,19 @@ Q3 - 10 points
 
 What is the make of the camera that took the picture?
 
-Answer...
+`Apple iPhone 5`
 
 Q4 - 10 points
 
 What is the model of the camera that took the picture?
 
-Answer...
+`Apple iPhone 5`
 
 Q5 - 10 points
 
 What is the exposure time for the picture? (ex: 1/200)
 
-Answer...
+![](attachments/Pasted%20image%2020250330095002.png)
 
 Q6 - 20 points
 
