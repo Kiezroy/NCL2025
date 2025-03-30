@@ -9,7 +9,9 @@ Q1 - 15 points
 
 What is the key fingerprint for security@cpanel.net?
 
-Answer...
+![](attachments/Pasted%20image%2020250330105433.png)
+
+`[ded38747ceefc789fdc3a6154cf279c5c0424907](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xded38747ceefc789fdc3a6154cf279c5c0424907)`
 
 Q2 - 15 points
 
