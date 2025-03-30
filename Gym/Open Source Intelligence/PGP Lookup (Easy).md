@@ -2,6 +2,9 @@
 
 Individuals use PGP to securely encrypt their emails, can you find out more about the following PGP keys?
 
+
+Use PGP lookup databases like: [keyserver.ubuntu.com](http://keyserver.ubuntu.com/), [keys.openpgp.org](http://keys.openpgp.org/), and [pgp.mit.edu](http://pgp.mit.edu/).
+
 Q1 - 15 points
 
 What is the key fingerprint for security@cpanel.net?
