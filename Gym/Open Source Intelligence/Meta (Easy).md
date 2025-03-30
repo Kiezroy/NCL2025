@@ -1,4 +1,4 @@
-https://www.metadata2go.com/view-metadata
+I used: https://www.metadata2go.com/view-metadata
 
 Q1 - 10 points
 
