@@ -26,12 +26,14 @@ What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartblee
 Q4 - 10 points
 
 What was the original RFC number that described Telnet?
-
-
+![](attachments/Pasted%20image%2020250330100557.png)
+`RFC 854`
 
 Q5 - 10 points
 
 How large (in bytes) was the SQL Slammer worm?
+
+`376 bytes`
 
 Q6 - 10 points
 
