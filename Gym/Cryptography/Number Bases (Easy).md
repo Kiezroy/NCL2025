@@ -2,8 +2,6 @@ Cyber Command
 
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they are all simply encoded using different number bases.
 
-7:38:04 pm
-
 | User                                                                                                       | Password Ciphertext                                                                                         | Answer |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
 | #### ![](https://assets.cyberskyline.com/img/avatars/small/patrick.png?t=3)<br><br>Patrick<br><br>5 points | 0x73636f7270696f6e                                                                                          |        |
