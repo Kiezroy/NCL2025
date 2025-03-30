@@ -25,6 +25,7 @@ Q3 - 20 points
 What software was used to redact the file and insert a watermark?
 
 - Use online metadata viewer
+
 	![](attachments/Pasted%20image%2020250330160255.png)
 
 `PDFTron`
