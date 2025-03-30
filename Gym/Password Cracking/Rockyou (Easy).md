@@ -6,8 +6,8 @@ Our analysts have obtained password dumps storing hacker passwords. After obtain
 - Find what each one is encrypted with
 
 Alternative
-- Crack using hashcat
-- ``
+- Crack using hashcat and rockyou.txt wordlist
+- `hashcat hash.txt -m 0 -a 0 /usr/share/wordlists/rockyou.txt`
 
 | User                                                                                                        | Password Ciphertext              |     | Answer    |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------- | --- | --------- |
