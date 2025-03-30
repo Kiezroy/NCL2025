@@ -11,7 +11,7 @@ Q2 - 10 points
 
 What version of VSFTPD contained the smiley face backdoor?
 
-
+![](attachments/Pasted%20image%2020250330100435.png)
 
 `2.3.4`
 
@@ -19,10 +19,15 @@ Q3 - 10 points
 
 What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartbleed?
 
+![](attachments/Pasted%20image%2020250330100514.png)
+
+`1.0.1g`
 
 Q4 - 10 points
 
 What was the original RFC number that described Telnet?
+
+
 
 Q5 - 10 points
 
