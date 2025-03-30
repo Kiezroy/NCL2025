@@ -17,10 +17,12 @@ Q2 - 15 points
 
 What email address is associated with the key fingerprint 7A39A56B73D1E097D57435CFCDE2DE1DCB2077F2?
 
+![](attachments/Pasted%20image%2020250330105511.png)
 
-
-Answer...
+`hx@liber8tion.cityinthe.cloud`
 
 Q3 - 15 points
 
 On what date does the above key expire (in UTC)?
+
+![](attachments/Pasted%20image%2020250330105600.png)
