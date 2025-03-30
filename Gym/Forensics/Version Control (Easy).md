@@ -29,7 +29,8 @@ Each employee is assigned a flag. What is the flag that was compromised? (20 pts
 
 Greg thinks that he may have had additional account credentials that were compromised. What's the name of the service provider for that other compromised account? (15 pts)
 
-```root@DESKTOP:~/git_backup# git branch
+```
+root@DESKTOP:~/git_backup# git branch
 * master
   next
 root@DESKTOP:~/git_backup# git checkout next
@@ -40,4 +41,12 @@ root@DESKTOP:~/git_backup# cat README.md
 This repo is for storing important information
 root@DESKTOP:~/git_backup# cat passwords.txt
 Facebook: waffles85
-root@DESKTOP:~/git_backup#```
+root@DESKTOP:~/git_backup#
+
+```
+
+`Facebook`
+
+What was the password on that compromised account? (15 pts)
+
+`waffles85`
