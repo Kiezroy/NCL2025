@@ -6,13 +6,17 @@ Q1 - 5 points
 
 How many total login attempts were made in this log?
 
+- Look at how many lines were made
 
+![](attachments/Pasted%20image%2020250330173725.png)
+
+`6063`
 
 Q2 - 15 points
 
 How many unique usernames appear in this log?
 
-Answer...
+
 
 Q3 - 20 points
 
