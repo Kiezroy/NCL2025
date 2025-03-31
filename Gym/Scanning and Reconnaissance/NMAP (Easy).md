@@ -45,7 +45,20 @@ Q4 - 20 points
 
 What is the lowest open UDP port on the system?
 
-- Perform a 
+- Perform a nmap UDP scan with -sU
+
+```
+root@DESKTOP:~# nmap -sU ports.cityinthe.cloud
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-30 20:48 PDT
+Nmap scan report for ports.cityinthe.cloud (34.199.237.244)
+Host is up (0.085s latency).
+rDNS record for 34.199.237.244: ec2-34-199-237-244.compute-1.amazonaws.com
+Not shown: 999 open|filtered udp ports (no-response)
+PORT  STATE SERVICE
+7/udp open  echo
+
+Nmap done: 1 IP address (1 host up) scanned in 17.63 seconds
+```
 
 Q5 - 20 points
 
