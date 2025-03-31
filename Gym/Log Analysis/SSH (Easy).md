@@ -24,7 +24,7 @@ Q3 - 15 points
 
 What was the second IP address to attack the server?
 
-
+![](attachments/Pasted%20image%2020250330171911.png)
 
 `56.13.188.38`
 
@@ -32,15 +32,20 @@ Q4 - 15 points
 
 What was the third IP address to attack the server?
 
-Answer...
+![](attachments/Pasted%20image%2020250330171937.png)
+
+`30.167.206.91`
 
 Q5 - 20 points
 
 Which user was targeted in the attack?
 
-Answer...
+`harvey`
 
 Q6 - 25 points
 
 From which IP address was the attacker able to successfully log in?
 
+![](attachments/Pasted%20image%2020250330172009.png)
+
+``
