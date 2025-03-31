@@ -1964,3 +1964,6 @@ cat login.log | cut -f 2,3 | sort | uniq | cut -f 2 | sort | uniq -c | sort -n
      31 ntory
      35 wlfla0190
 ```
+
+`wlfla0190`
+``
