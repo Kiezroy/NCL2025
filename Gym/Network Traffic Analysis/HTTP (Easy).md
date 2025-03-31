@@ -16,7 +16,7 @@ Q2 - 20 points
 
 What is the name of the web server software that handled the request?
 
-Answer...
+
 
 Q3 - 20 points
 
