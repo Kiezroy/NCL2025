@@ -35,6 +35,9 @@ What file extension was the most used by ftpuser?
 cat vsftpd.log | grep ftpuser | grep 'OK UPLOAD' | awk -F ',' '{print  $2 }' | cut -d '"' -f 2 | awk -F "." '{print $NF }' | sort | uniq -c
 ````
 
+![](attachments/Pasted%20image%2020250330172601.png)
+
+`JPG`
 
 
 Q5 - 10 points
