@@ -26,14 +26,24 @@ How many items were in the response?
 
 ![](attachments/Pasted%20image%2020250330183724.png)
 
+`4`
+
 Q4 - 20 points
 
 What is the TTL for all of the DNS records? 
 
 (note that this is the TTL for the DNS record, not the IP packet.)
 
-- Look at the "Time to Live"
+- Look at the "Time to live"
+
+![](attachments/Pasted%20image%2020250330184030.png)
+
+`3600`
 
 Q5 - 20 points
 
 What is the IP address for the "welcome" subdomain?
+
+![](attachments/Pasted%20image%2020250330184116.png)
+
+`1.1.1.1`
