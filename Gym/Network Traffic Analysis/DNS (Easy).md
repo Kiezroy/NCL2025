@@ -32,7 +32,7 @@ What is the TTL for all of the DNS records?
 
 (note that this is the TTL for the DNS record, not the IP packet.)
 
-
+- Look at the "Time to Live"
 
 Q5 - 20 points
 
