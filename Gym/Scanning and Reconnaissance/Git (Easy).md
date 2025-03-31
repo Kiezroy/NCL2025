@@ -40,13 +40,18 @@ What is flag #1?
 
 ![](attachments/Pasted%20image%2020250330211906.png)
 
-``
+`SKY-HSNO-2303`
 
 Q4 - 15 points
 
 What is flag #2?
 
-Answer...
+- Explore the branches and go to the flag2 branch
+- Find flag2.txt
+
+![](attachments/Pasted%20image%2020250330211956.png)
+
+`SKY-OZNW-3730`
 
 Q5 - 15 points
 
