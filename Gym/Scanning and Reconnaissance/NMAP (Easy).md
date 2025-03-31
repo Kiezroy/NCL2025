@@ -27,7 +27,7 @@ Q1 - 15 points
 
 What is the lowest open TCP port on the system?
 
-`7`
+`13`
 
 Q2 - 15 points
 
