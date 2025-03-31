@@ -45,7 +45,7 @@ Q4 - 20 points
 
 What is the lowest open UDP port on the system?
 
-
+- Perform a 
 
 Q5 - 20 points
 
