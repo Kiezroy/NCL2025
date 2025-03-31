@@ -22,7 +22,9 @@ Q3 - 20 points
 
 How many items were in the response?
 
+- Look at the frame number
 
+![](attachments/Pasted%20image%2020250330183724.png)
 
 Q4 - 20 points
 
