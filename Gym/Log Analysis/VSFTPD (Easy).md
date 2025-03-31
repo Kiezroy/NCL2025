@@ -106,7 +106,7 @@ cat vsftpd.log | grep ftpuser | grep 'OK DOWNLOAD' | awk -F ',' '{print  $3 }' |
 ```
 
 
-``
+`6008032`
 
 Q10 - 25 points
 
