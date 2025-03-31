@@ -23,13 +23,15 @@ Q3 - 5 points
 
 What is the last directory that ftpuser created?
 
+![](attachments/Pasted%20image%2020250330172319.png)
 
+`110D300S`
 
 Q4 - 10 points
 
 What file extension was the most used by ftpuser?
 
-Answer...
+
 
 Q5 - 10 points
 
