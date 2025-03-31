@@ -84,11 +84,18 @@ How many total bytes did this other user upload?
 cat vsftpd.log | grep jimmy | grep 'OK UPLOAD' | awk -F ',' '{print  $3 }' | cut -f 2 -d ' ' | awk '{s+=$1} END {printf "%.0f\n", s}'
 ````
 
+`105750628`
+
 Q8 - 10 points
 
 How many total bytes did ftpuser upload?
 
-Answer...
+```
+cat vsftpd.log | grep ftpuser | grep 'OK UPLOAD' | awk -F ',' '{print  $3 }' | cut -f 2 -d ' ' | awk '{s+=$1} END {printf "%.0f\n", s}'
+
+```
+
+`13980839165`
 
 Q9 - 10 points
 
