@@ -78,3 +78,9 @@ What is the date with the most login attempts?
 Q6 - 20 points
 
 What is the username that had logins from the most unique IP addresses?
+
+````
+cat login.log | cut -f 2,3 | sort | uniq | cut -f 2 | sort | uniq -c | sort -n
+````
+
+``
