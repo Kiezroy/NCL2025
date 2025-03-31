@@ -16,10 +16,13 @@ Q2 - 20 points
 
 What domain was requested?
 
+`etas.com`
 
 Q3 - 20 points
 
 How many items were in the response?
+
+
 
 Q4 - 20 points
 
