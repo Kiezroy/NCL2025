@@ -15,20 +15,22 @@ and the repository exists.
 
 "To access it via the browser, you can restructure the URL as a web URL which will generally have the convention of `https://[hostname]/[username]/[repository name]`"
 
-- So I went to https://gitlab/cybergit4823/my-awesome-flag-project.git
+- So I went to https://gitlab.com/cybergit4823/my-awesome-flag-project.git which worked!
 
 
 Q1 - 10 points
 
-What is the display name of the author of this git project??
+What is the display name of the author of this git project?
 
-Answer...
+![](attachments/Pasted%20image%2020250330211758.png)
+
+`Cyber Cyber`
 
 Q2 - 10 points
 
 What is the short commit hash (first 8 characters) of the initial commit?
 
-Answer...
+
 
 Q3 - 15 points
 
