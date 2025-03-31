@@ -32,7 +32,16 @@ Q3 - 20 points
 
 What command was executed once the user was authenticated?
 
-Answer...
+- Find this bash command `$`
+- Follow the telnet to see what it will say
+
+![](attachments/Pasted%20image%2020250330202720.png)
+
+![](attachments/Pasted%20image%2020250330202727.png)
+
+
+
+
 
 Q4 - 20 points
 
