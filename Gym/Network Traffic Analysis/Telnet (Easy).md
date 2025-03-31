@@ -6,6 +6,14 @@ Q1 - 10 points
 
 What is the username that was used to log in?
 
+- Go through the telnet packets and assemble the username
+
+![](attachments/Pasted%20image%2020250330202401.png)
+
+![](attachments/Pasted%20image%2020250330202411.png)
+![](attachments/Pasted%20image%2020250330202421.png)
+
+
 
 
 Q2 - 10 points
