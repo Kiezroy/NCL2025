@@ -8,7 +8,9 @@ Q1 - 20 points
 
 What Linux tool was used to execute a file download?
 
+![](attachments/Pasted%20image%2020250330191320.png)
 
+`wget`
 
 Q2 - 20 points
 
