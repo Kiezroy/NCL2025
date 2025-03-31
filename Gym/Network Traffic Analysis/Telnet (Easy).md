@@ -22,7 +22,11 @@ Q2 - 10 points
 
 What is the password that was used to log in?
 
-Answer...
+- Follow the same method as Q1
+
+![](attachments/Pasted%20image%2020250330202551.png)
+
+- Eventually will get `capture`
 
 Q3 - 20 points
 
