@@ -2,7 +2,21 @@ Analyze a git project and find some hidden flags. You can try to clone the repos
 
 - Tried to `git clone` the repository which didn't work
 
-	
+```
+root@DESKTOP:~# git clone cybergit4823/my-awesome-flag-project.git
+fatal: repository 'cybergit4823/my-awesome-flag-project.git' does not exist
+root@DESKTOP:~# sudo git clone git@gitlab:cybergit4823/my-awesome-flag-project.git
+Cloning into 'my-awesome-flag-project'...
+ssh: Could not resolve hostname gitlab: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+
+
+
 
 
 
