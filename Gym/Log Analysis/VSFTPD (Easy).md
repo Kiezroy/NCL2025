@@ -15,13 +15,15 @@ Q2 - 5 points
 
 What is the first directory that ftpuser created?
 
+![](attachments/Pasted%20image%2020250330172234.png)
 
+`TreeSizeFree`
 
 Q3 - 5 points
 
 What is the last directory that ftpuser created?
 
-Answer...
+
 
 Q4 - 10 points
 
