@@ -30,13 +30,17 @@ Q2 - 10 points
 
 What is the short commit hash (first 8 characters) of the initial commit?
 
+![](attachments/Pasted%20image%2020250330211849.png)
 
+`f9714edd`
 
 Q3 - 15 points
 
 What is flag #1?
 
-Answer...
+![](attachments/Pasted%20image%2020250330211906.png)
+
+``
 
 Q4 - 15 points
 
