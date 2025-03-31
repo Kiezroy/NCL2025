@@ -56,8 +56,9 @@ Q5 - 20 points
 
 What is the hostname of the machine that was logged in to?
 
-
+`cm4116`
 
 Q6 - 20 points
 
 What CPU architecture does the remote machine use?
+
