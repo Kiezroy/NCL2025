@@ -16,13 +16,17 @@ Q2 - 10 points
 
 What software is the FTP server running? (Include name and version)
 
+![](attachments/Pasted%20image%2020250330185538.png)
 
+`FileZilla Server 0.9.53`
 
 Q3 - 10 points
 
 What is the first username:password combination that allows for successful authentication? (e.g. user:password)
 
-Answer...
+
+
+`user1:met`
 
 Q4 - 10 points
 
