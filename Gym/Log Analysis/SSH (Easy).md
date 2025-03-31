@@ -8,19 +8,25 @@ Q1 - 10 points
 
 What is the hostname of the ssh server that was compromised?
 
+![](attachments/Pasted%20image%2020250330171805.png)
 
+`myraptor`
 
 Q2 - 15 points
 
 What was the first IP address to attack the server?
 
-Answer...
+![](attachments/Pasted%20image%2020250330171831.png)
+
+`169.139.243.218`
 
 Q3 - 15 points
 
 What was the second IP address to attack the server?
 
-Answer...
+
+
+`56.13.188.38`
 
 Q4 - 15 points
 
