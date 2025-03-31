@@ -48,7 +48,9 @@ Q4 - 20 points
 
 In what year was this capture created?
 
+![](attachments/Pasted%20image%2020250330203737.png)
 
+`2011`
 
 Q5 - 20 points
 
