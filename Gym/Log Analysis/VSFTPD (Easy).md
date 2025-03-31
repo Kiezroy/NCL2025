@@ -111,3 +111,8 @@ cat vsftpd.log | grep ftpuser | grep 'OK DOWNLOAD' | awk -F ',' '{print  $3 }' |
 Q10 - 25 points
 
 Identify the IP address of the suspicious login (the login with no subsequent activity)
+
+
+
+
+`10.3.0.6`
