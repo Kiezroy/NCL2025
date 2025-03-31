@@ -18,13 +18,17 @@ What is the name of the web server software that handled the request?
 
 - Apply the http.response filter
 
-	
+	![](attachments/Pasted%20image%2020250330192144.png)
+
+`nginx`
 
 Q3 - 20 points
 
 What IP address initiated request?
 
-Answer...
+![](attachments/Pasted%20image%2020250330192225.png)
+
+`192.168.1.140`
 
 Q4 - 20 points
 
