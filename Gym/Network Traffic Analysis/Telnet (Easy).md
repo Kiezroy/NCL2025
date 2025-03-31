@@ -39,8 +39,9 @@ What command was executed once the user was authenticated?
 
 ![](attachments/Pasted%20image%2020250330202727.png)
 
+![](attachments/Pasted%20image%2020250330202737.png)
 
-
+- Continue this pattern to get `uname -a`
 
 
 Q4 - 20 points
