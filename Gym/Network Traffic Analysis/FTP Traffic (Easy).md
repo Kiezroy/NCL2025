@@ -68,4 +68,4 @@ What file does the anonymous user download?
 
 ![](attachments/Pasted%20image%2020250330190001.png)
 
-`compcodes.`
+`compcodes.zip`
