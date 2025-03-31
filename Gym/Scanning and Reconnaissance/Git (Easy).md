@@ -77,4 +77,9 @@ Q7 - 20 points
 
 What is flag #5?
 
-- Go to the commit of removing 
+- Go to the commit of removing flag 4
+- Hit the three dots to toggle commit description
+
+![](attachments/Pasted%20image%2020250330212253.png)
+
+`SKY-DKIT-9801`
