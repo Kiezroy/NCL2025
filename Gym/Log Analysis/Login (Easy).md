@@ -32,13 +32,15 @@ Q4 - 20 points
 
 How many attempts were made for the username with the most login attempts?
 
+`cat login.log | grep ntory | wc -l`
 
+`124`
 
 Q5 - 20 points
 
 What is the date with the most login attempts?
 
-Answer...
+
 
 Q6 - 20 points
 
