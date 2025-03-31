@@ -34,8 +34,11 @@ Q4 - 20 points
 
 What is the IP address of the server?
 
-Answer...
+![](attachments/Pasted%20image%2020250330201311.png)
+
+`174.143.213.184`
 
 Q5 - 20 points
 
 What is the md5sum of the file downloaded?
+
