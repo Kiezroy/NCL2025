@@ -15,9 +15,9 @@ and the repository exists.
 ```
 
 
+"To access it via the browser, you can restructure the URL as a web URL which will generally have the convention of `https://[hostname]/[username]/[repository name]`"
 
-
-
+- So I went to https://
 
 
 Q1 - 10 points
