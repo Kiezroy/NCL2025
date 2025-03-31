@@ -45,4 +45,9 @@ What is the md5sum of the file downloaded?
 - Open in wireshark
 - File > Export As > HTTP
 - ![](attachments/Pasted%20image%2020250330201909.png)
-- Calculate the md5u
+- Calculate the md5sum
+
+```
+root@DESKTOP:~# md5sum logo.png
+966007c476e0c200fba8b28b250a6379  logo.png
+```
