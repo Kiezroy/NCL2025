@@ -62,3 +62,4 @@ Q6 - 20 points
 
 What CPU architecture does the remote machine use?
 
+`armv4tl`
