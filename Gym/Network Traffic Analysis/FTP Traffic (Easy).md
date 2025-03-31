@@ -24,15 +24,17 @@ Q3 - 10 points
 
 What is the first username:password combination that allows for successful authentication? (e.g. user:password)
 
+![](attachments/Pasted%20image%2020250330185608.png)
 
-
-`user1:met`
+`user1:metropolis`
 
 Q4 - 10 points
 
 What is the first command the user executes on the ftp server?
 
-Answer...
+![](attachments/Pasted%20image%2020250330185626.png)
+
+`LIST`
 
 Q5 - 15 points
 
@@ -46,7 +48,9 @@ Q6 - 15 points
 
 What file is uploaded to the ftp server?
 
-Answer...
+![](attachments/Pasted%20image%2020250330185651.png)
+
+`compcodes.zip`
 
 Q7 - 15 points
 
