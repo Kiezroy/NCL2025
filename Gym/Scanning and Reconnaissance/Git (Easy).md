@@ -57,13 +57,17 @@ Q5 - 15 points
 
 What is flag #3?
 
-Answer...
+- Right on the project page
+
+![](attachments/Pasted%20image%2020250330212037.png)
+
+`SKY-CCXL-4067`
 
 Q6 - 15 points
 
 What is flag #4?
 
-Answer...
+
 
 Q7 - 20 points
 
