@@ -48,13 +48,13 @@ Q4 - 20 points
 
 In what year was this capture created?
 
-Answer...
+
 
 Q5 - 20 points
 
 What is the hostname of the machine that was logged in to?
 
-Answer...
+
 
 Q6 - 20 points
 
