@@ -8,13 +8,15 @@ Q1 - 10 points
 
 What was the first username:password combination attempt made to log in to the server? (e.g. user:password)
 
+![](attachments/Pasted%20image%2020250330184407.png)
 
+`user1:cyberskyline`
 
 Q2 - 10 points
 
 What software is the FTP server running? (Include name and version)
 
-Answer...
+
 
 Q3 - 10 points
 
@@ -32,7 +34,7 @@ Q5 - 15 points
 
 What file is deleted from the ftp server?
 
-
+![](attachments/Pasted%20image%2020250330184338.png)
 
 `bank.cap`
 
