@@ -8,7 +8,7 @@ Q1 - 20 points
 
 What Linux tool was used to execute a file download?
 
-Answer...
+
 
 Q2 - 20 points
 
