@@ -67,8 +67,14 @@ Q6 - 15 points
 
 What is flag #4?
 
+- Go to past commits and find the flag
 
+![](attachments/Pasted%20image%2020250330212156.png)
+
+`SKY-IRRK-9672`
 
 Q7 - 20 points
 
 What is flag #5?
+
+- Go to the commit of removing 
