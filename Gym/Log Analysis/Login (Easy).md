@@ -22,7 +22,9 @@ Q3 - 20 points
 
 What is the username with the most login attempts?
 
-Answer...
+`awk '{print $4}' login.log  | sort | uniq -c | sort -nr`
+
+`ntory`
 
 Q4 - 20 points
 
