@@ -9,7 +9,7 @@ Q1 - 20 points
 What is the type of the DNS query requested?
 
 ![](attachments/Pasted%20image%2020250330182851.png)
-`
+
 `AXFR`
 
 Q2 - 20 points

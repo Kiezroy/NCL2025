@@ -32,7 +32,9 @@ Q5 - 15 points
 
 What file is deleted from the ftp server?
 
-Answer...
+
+
+`bank.cap`
 
 Q6 - 15 points
 
