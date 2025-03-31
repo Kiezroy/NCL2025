@@ -56,8 +56,16 @@ Q7 - 15 points
 
 What is the filesize (in bytes) of the uploaded file?
 
-- Add all the bytes which refer to comp
+- Add all the bytes which refer to compcodes.zip
+
+![](attachments/Pasted%20image%2020250330185907.png)
+
+`28183`
 
 Q8 - 15 points
 
 What file does the anonymous user download?
+
+![](attachments/Pasted%20image%2020250330190001.png)
+
+`compcodes.`
