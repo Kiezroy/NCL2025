@@ -60,8 +60,27 @@ PORT  STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 17.63 seconds
 ```
 
+`7`
+
 Q5 - 20 points
 
 What software is being run on TCP port 16080?
 
-- Perform nmap scan on port 16080 
+- Perform nmap scan on port 16080 with -sV
+
+```
+root@DESKTOP:~# nmap -p 16080 -sV ports.cityinthe.cloud
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-30 20:54 PDT
+Nmap scan report for ports.cityinthe.cloud (34.199.237.244)
+Host is up (0.081s latency).
+rDNS record for 34.199.237.244: ec2-34-199-237-244.compute-1.amazonaws.com
+
+PORT      STATE SERVICE VERSION
+16080/tcp open  http    nginx 1.10.3 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.91 seconds
+```
+
+`nginx 1.10.3`
