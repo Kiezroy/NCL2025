@@ -44,13 +44,21 @@ Q5 - 10 points
 
 What is the username of the other user in this log?
 
-Answer...
+```
+root@DESKTOP:~# cat vsftpd.log | grep '\[.*\] \[.*\]' | awk -F ' ' '{print $8}' | sort | uniq
+
+[ftpuser]
+[jimmy]
+```
+
+
+`jimmy`
 
 Q6 - 10 points
 
 What IP address did this other user log in from?
 
-Answer...
+
 
 Q7 - 10 points
 
