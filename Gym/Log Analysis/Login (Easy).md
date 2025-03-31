@@ -16,7 +16,9 @@ Q2 - 15 points
 
 How many unique usernames appear in this log?
 
+`cat login.log | cut -f 3 | sort | uniq | wc -l`
 
+`1879`
 
 Q3 - 20 points
 
@@ -30,7 +32,7 @@ Q4 - 20 points
 
 How many attempts were made for the username with the most login attempts?
 
-Answer...
+
 
 Q5 - 20 points
 
