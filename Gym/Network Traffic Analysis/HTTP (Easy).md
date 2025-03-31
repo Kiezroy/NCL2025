@@ -42,3 +42,7 @@ Q5 - 20 points
 
 What is the md5sum of the file downloaded?
 
+- Open in wireshark
+- File > Export As > HTTP
+- ![](attachments/Pasted%20image%2020250330201909.png)
+- Calculate the md5u
