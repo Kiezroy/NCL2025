@@ -31,6 +31,10 @@ Q4 - 10 points
 
 What file extension was the most used by ftpuser?
 
+````
+cat vsftpd.log | grep ftpuser | grep 'OK UPLOAD' | awk -F ',' '{print  $2 }' | cut -d '"' -f 2 | awk -F "." '{print $NF }' | sort | uniq -c
+````
+
 
 
 Q5 - 10 points
