@@ -56,7 +56,7 @@ Q7 - 15 points
 
 What is the filesize (in bytes) of the uploaded file?
 
-
+- Add all the bytes which refer to comp
 
 Q8 - 15 points
 
