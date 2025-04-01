@@ -24,6 +24,7 @@ Q3 - 10 points
 In a 2016 report, what is the backdoor password found in Fortinet devices?
 
 
+
 Q4 - 10 points
 
 In a 2021 report, what is the backdoor password found in Zyxel firewalls and VPN gateways?
