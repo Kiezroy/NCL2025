@@ -1,10 +1,12 @@
 
 Generate hashes for various passwords.
 
+- Either use online hash generator or terminal
 
 Q1 - 5 points
 
 What is the md5 hash of the password: "tootsie3241"
+
 
 
 Q2 - 5 points
