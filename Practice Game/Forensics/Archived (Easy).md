@@ -38,7 +38,7 @@ Q3 - 30 points
 
 What is the name of the user that created the flag file?
 
-
+`tar -tvf secrets.tar.gz`
 
 
 Q4 - 40 points
