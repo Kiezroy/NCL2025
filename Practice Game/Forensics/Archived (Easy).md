@@ -40,6 +40,17 @@ What is the name of the user that created the flag file?
 
 `tar -tvf secrets.tar.gz`
 
+`-t` is list
+`-v` is verbose
+`-f` is filename
+
+```
+root@DESKTOP:~# tar -tvf secrets.tar.gz
+drwxrwxr-x skye/skye         0 2022-04-05 14:35 secrets/
+-rw-r--r-- liber8tion/liber8tion 20 2022-04-05 14:35 secrets/note.txt
+-rw-rw-r-- skye/skye             32 2022-01-02 07:07 secrets/flag.txt
+```
+
 
 Q4 - 40 points
 
