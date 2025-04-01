@@ -31,8 +31,14 @@ Q4 - 10 points
 
 In a 2021 report, what is the backdoor password found in Zyxel firewalls and VPN gateways?
 
+https://www.zdnet.com/article/backdoor-account-discovered-in-more-than-100000-zyxel-firewalls-vpn-gateways/
 
+`PrOw!aN_fXp`
 
 Q5 - 10 points
 
 Many breaches involve a Jenkins server with default credentials still enabled, what is the default password for Jenkins on OpenShift?
+
+https://docs.openshift.com/container-platform/4.8/openshift_images/using_images/images-other-jenkins.html#:~:text=The%20first%20time%20Jenkins%20starts,credentials%20are%20admin%20and%20password%20.
+
+`password`
