@@ -51,7 +51,10 @@ drwxrwxr-x skye/skye         0 2022-04-05 14:35 secrets/
 -rw-rw-r-- skye/skye             32 2022-01-02 07:07 secrets/flag.txt
 ```
 
+`skye`
 
 Q4 - 40 points
 
 When was the flag file created? (in UTC)
+
+`2022-01-02 07:07`
