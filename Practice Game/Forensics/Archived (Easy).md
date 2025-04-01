@@ -57,4 +57,3 @@ Q4 - 40 points
 
 When was the flag file created? (in UTC)
 
-`2022-01-02 07:07`
