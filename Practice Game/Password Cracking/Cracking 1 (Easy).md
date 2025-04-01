@@ -1,6 +1,8 @@
 
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they overlap with the passwords from the rockyou breach.
 
+- Use online hashcracker:
+- Use hashcat
 
 | User                                                                                                      | Password Ciphertext              | Answer |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------- | ------ |
