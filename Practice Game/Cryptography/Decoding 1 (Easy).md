@@ -31,3 +31,8 @@ Q3 - 10 points
 
 156 151 153 157 154 141 062 070 063 066
 
+- This is Octal
+
+![](attachments/Pasted%20image%2020250401092822.png)
+
+`nikola2836`
