@@ -8,7 +8,9 @@ Q1 - 10 points
 
 How many requests did the server receive?
 
+- Look at the end of the log file
 
+`605`
 
 
 Q2 - 15 points
