@@ -41,6 +41,12 @@ Q4 - 10 points
 
 What frame number contains an invalid UDP checksum?
 
+- Follow same process as above to enable "Validate UDP checksum if possible"
+
+	![](attachments/Pasted%20image%2020250403113020.png)
+
+- Search through the packets
+
 
 
 
