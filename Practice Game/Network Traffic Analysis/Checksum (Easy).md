@@ -23,7 +23,11 @@ Q3 - 10 points
 
 What frame number contains an invalid TCP checksum?
 
-Answer...
+- Open in wireshark and inspect packets
+
+![](attachments/Pasted%20image%2020250403112629.png)
+
+`130`
 
 Q4 - 10 points
 
