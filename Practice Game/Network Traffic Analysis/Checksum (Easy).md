@@ -55,3 +55,6 @@ Q5 - 15 points
 
 What is the name of the company that made the client device?
 
+![](attachments/Pasted%20image%2020250403113157.png)
+
+`TpLinkTechnologies`
