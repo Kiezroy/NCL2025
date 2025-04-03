@@ -17,7 +17,7 @@ Q2 - 10 points
 
 What frame number contains an invalid IP checksum?
 
-
+- Edit > Preferences > Protocols > IPv4 > Validate IPv4 checksum if possible
 
 Q3 - 10 points
 
