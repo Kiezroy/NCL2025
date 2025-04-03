@@ -19,6 +19,14 @@ What frame number contains an invalid IP checksum?
 
 - Edit > Preferences > Protocols > IPv4 > Validate IPv4 checksum if possible
 
+	![](attachments/Pasted%20image%2020250403112847.png)
+
+-  Re-inspect the packets and find the one with a bad IP checksum
+
+![](attachments/Pasted%20image%2020250403112924.png)
+
+`64`
+
 Q3 - 10 points
 
 What frame number contains an invalid TCP checksum?
@@ -32,6 +40,8 @@ What frame number contains an invalid TCP checksum?
 Q4 - 10 points
 
 What frame number contains an invalid UDP checksum?
+
+
 
 
 Q5 - 15 points
