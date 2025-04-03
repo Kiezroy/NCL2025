@@ -9,13 +9,15 @@ Q1 - 10 points
 
 What was the full domain name queried in the DNS request?
 
+![](attachments/Pasted%20image%2020250403111735.png)
 
+`use1-api.tplinkra.com`
 
 Q2 - 10 points
 
 What frame number contains an invalid IP checksum?
 
-Answer...
+
 
 Q3 - 10 points
 
