@@ -47,9 +47,11 @@ What frame number contains an invalid UDP checksum?
 
 - Search through the packets
 
+![](attachments/Pasted%20image%2020250403113048.png)
 
-
+`53`
 
 Q5 - 15 points
 
 What is the name of the company that made the client device?
+
