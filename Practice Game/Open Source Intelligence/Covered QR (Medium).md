@@ -28,3 +28,11 @@ Source: https://scanova.io/blog/qr-code-error-correction/
 
 What is the number for the mask pattern? (10 pts)
 
+![](attachments/Pasted%20image%2020250403180303.png)![](attachments/Pasted%20image%2020250403180310.png)
+
+`3`
+
+
+What is the flag? (40 pts)
+
+
