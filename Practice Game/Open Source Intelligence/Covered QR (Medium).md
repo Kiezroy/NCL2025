@@ -7,3 +7,9 @@ We have uncovered a picture that contains a flag, but it seems to be missing som
 
 What version of QR Code is present in the image? (10 pts)
 
+![](attachments/Pasted%20image%2020250403172321.png)
+
+- Count the amount of modules on each side
+
+`Version 2`
+
