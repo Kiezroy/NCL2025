@@ -5,3 +5,14 @@ We have captured an encrypted archive from a hacker's FTP server. Decrypt it and
 
 What is the password used to encrypt the zip archive? (15 pts)
 
+- Use zip2john to get the hash of the zip file
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ zip2john Encrypted.zip > encryptedhash.txt
+ver 1.0 Encrypted.zip/zip_archive/ is not encrypted, or stored with non-handled compression type
+ver 1.0 efh 5455 efh 7875 Encrypted.zip/zip_archive/flag.txt PKZIP Encr: 2b chk, TS_chk, cmplen=26, decmplen=14, crc=E52C5B2C ts=704D cs=704d type=0
+
+```
+
+- Use john with 
