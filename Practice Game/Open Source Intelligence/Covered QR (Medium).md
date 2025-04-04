@@ -24,3 +24,7 @@ Source: https://scanova.io/blog/qr-code-error-correction/
 ![](attachments/error-correction-level-1024x512.webp)
 
 `Level H`
+
+
+What is the number for the mask pattern? (10 pts)
+
