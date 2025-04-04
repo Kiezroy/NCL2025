@@ -17,7 +17,10 @@ NTQ2ODY5NzMyMDY5NzMyMDc0Njg2NTIwNzA2NTcyNjY2NTYzNzQyMDc0Njk2ZDY1MjA3NDZmMjA3MDYx
 
 ![](attachments/Pasted%20image%2020250403212409.png)
 
+![](attachments/Pasted%20image%2020250403212424.png)
 
+`This is the perfect time to panic`
 
 Q2 - 20 points
 MTMtMS0yNSAyMC04LTUgNi0xNS0xOC0zLTUgMi01IDIzLTktMjAtOCAyNS0xNS0yMQ==
+
