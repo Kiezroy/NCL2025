@@ -11,7 +11,13 @@ NTQ2ODY5NzMyMDY5NzMyMDc0Njg2NTIwNzA2NTcyNjY2NTYzNzQyMDc0Njk2ZDY1MjA3NDZmMjA3MDYx
 
 ![](attachments/Pasted%20image%2020250403212302.png)
 
-- After, 
+![](attachments/Pasted%20image%2020250403212357.png)
+
+- Analyze it again and decode it from Hex
+
+![](attachments/Pasted%20image%2020250403212409.png)
+
+
 
 Q2 - 20 points
 MTMtMS0yNSAyMC04LTUgNi0xNS0xOC0zLTUgMi01IDIzLTktMjAtOCAyNS0xNS0yMQ==
