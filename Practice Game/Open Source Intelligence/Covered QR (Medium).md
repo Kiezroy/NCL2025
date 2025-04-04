@@ -16,5 +16,11 @@ What version of QR Code is present in the image? (10 pts)
 
 What is the error correction level? (10 pts)
 
-"QR codes come with four levels of error correction – Low (L) – 7%, Medium (M)- 15%, Quartile (Q) – 25%, and High (H) – 30%. Each level provides a greater degree of resilience at the cost of reducing the storage capacity of the QR code." Source: https://tritonstore.com.au/common-qr-code-mistakes/
+"QR codes come with four levels of error correction – Low (L) – 7%, Medium (M)- 15%, Quartile (Q) – 25%, and High (H) – 30%. Each level provides a greater degree of resilience at the cost of reducing the storage capacity of the QR code." 
 
+Source: https://tritonstore.com.au/common-qr-code-mistakes/
+
+Source: https://scanova.io/blog/qr-code-error-correction/
+![](attachments/error-correction-level-1024x512.webp)
+
+`Level H`
