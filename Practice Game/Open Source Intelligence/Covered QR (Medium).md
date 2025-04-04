@@ -35,4 +35,5 @@ What is the number for the mask pattern? (10 pts)
 
 What is the flag? (40 pts)
 
-
+- Use https://merri.cx/qrazybox/ to reconstruct the QR code
+- 
