@@ -35,7 +35,7 @@ Session completed.
 
 What is the flag hidden in the zip archive? (15 pts)
 
--
+- Unzip the encrypted file and enter the cracked password
 
 ```
 ┌──(kali㉿kali)-[~/Downloads]
@@ -45,3 +45,13 @@ Archive:  Encrypted.zip
  extracting: zip_archive/flag.txt    
 
 ```
+
+- Display the contents of the flag.txt file
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat zip_archive/flag.txt 
+SKY-BJTE-5639
+```
+
+`SKY-BJTE-5639`
