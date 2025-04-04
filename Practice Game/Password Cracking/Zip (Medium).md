@@ -17,3 +17,31 @@ ver 1.0 efh 5455 efh 7875 Encrypted.zip/zip_archive/flag.txt PKZIP Encr: 2b chk,
 
 - Use john with wordlist rockyou.txt to crack hash
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ john encryptedhash.txt --wordlist=/usr/share/wordlists/rockyou.txt 
+Using default input encoding: UTF-8
+Loaded 1 password hash (PKZIP [32/64])
+Will run 4 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
+hammonds13       (Encrypted.zip/zip_archive/flag.txt)     
+1g 0:00:00:00 DONE (2025-04-04 01:21) 1.754g/s 13523Kp/s 13523Kc/s 13523KC/s hanbuger..hallnoates
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed. 
+
+```
+
+`hammonds13`
+
+What is the flag hidden in the zip archive? (15 pts)
+
+-
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ unzip Encrypted.zip                                               
+Archive:  Encrypted.zip
+[Encrypted.zip] zip_archive/flag.txt password: 
+ extracting: zip_archive/flag.txt    
+
+```
