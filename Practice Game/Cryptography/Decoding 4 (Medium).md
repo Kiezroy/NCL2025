@@ -7,11 +7,14 @@ Q1 - 10 points
 
 Sr mmeuiyi iiactsnl
 
+![](attachments/Pasted%20image%2020250403213136.png)
 
+`Security is minimal`
 
 Q2 - 15 points
 
 Yl moiltf euw oid nn
+
 
 
 Q3 - 15 points
