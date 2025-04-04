@@ -6,3 +6,4 @@
 We have uncovered a picture that contains a flag, but it seems to be missing some data. Can you recover the missing flag?
 
 What version of QR Code is present in the image? (10 pts)
+
