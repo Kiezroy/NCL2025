@@ -24,3 +24,8 @@ NTQ2ODY5NzMyMDY5NzMyMDc0Njg2NTIwNzA2NTcyNjY2NTYzNzQyMDc0Njk2ZDY1MjA3NDZmMjA3MDYx
 Q2 - 20 points
 MTMtMS0yNSAyMC04LTUgNi0xNS0xOC0zLTUgMi01IDIzLTktMjAtOCAyNS0xNS0yMQ==
 
+- Use the same method as Q1
+- This 1st phrase is base64 encoded
+
+- After decoding it is `13-1-25 20-8-5 6-15-18-3-5 2-5 23-9-20-8 25-15-21`
+- This 2nd phrase is 
