@@ -38,5 +38,12 @@ What is the flag? (40 pts)
 - Use https://merri.cx/qrazybox/ to reconstruct the QR code
 - Fill in each of the modules (the black and white squares)
 - Ensure to specify QR Code version as 25x25, Module size of 10px, and EC Level as H, Mask Pattern as 3
+![](attachments/Pasted%20image%2020250403183934.png)
 
 ![](attachments/Pasted%20image%2020250403183925.png)
+
+- Most most of the QR code is reconstructed, view it with Tools > Extract QR information
+
+![](attachments/Pasted%20image%2020250403184018.png)
+
+![](attachments/Pasted%20image%2020250403184025.png)
