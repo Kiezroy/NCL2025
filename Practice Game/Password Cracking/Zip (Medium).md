@@ -15,4 +15,5 @@ ver 1.0 efh 5455 efh 7875 Encrypted.zip/zip_archive/flag.txt PKZIP Encr: 2b chk,
 
 ```
 
-- Use john with 
+- Use john with wordlist rockyou.txt to crack hash
+
