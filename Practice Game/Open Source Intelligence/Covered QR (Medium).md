@@ -47,3 +47,7 @@ What is the flag? (40 pts)
 ![](attachments/Pasted%20image%2020250403184018.png)
 
 ![](attachments/Pasted%20image%2020250403184025.png)
+
+![](attachments/Pasted%20image%2020250403184034.png)
+
+`SKY-QRCD-7492`
