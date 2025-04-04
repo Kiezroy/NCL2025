@@ -1,0 +1,10 @@
+
+We have obtained password dumps storing hacker passwords. It appears that they are all in the format: "SKY-SENH-" followed by 4 digits. Can you crack them?
+
+
+
+| User                                                                                                      | Password Ciphertext              | Command | Answer        |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------- | ------- | ------------- |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/daniel.jpg?t=3)<br><br>Daniel<br><br>15 points | 7bd5a56b969c70453de13e143d426b77 |         | SKY-SENH-5494 |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/mark.png?t=3)<br><br>Mark<br><br>15 points     | d594609bce40643b168f308acea31755 |         |               |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/ade.jpg?t=3)<br><br>Ade<br><br>15 points       | eeb52a806d1c88733d5ce6c0d93ed4b7 |         |               |
