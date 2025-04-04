@@ -36,4 +36,7 @@ What is the number for the mask pattern? (10 pts)
 What is the flag? (40 pts)
 
 - Use https://merri.cx/qrazybox/ to reconstruct the QR code
-- 
+- Fill in each of the modules (the black and white squares)
+- Ensure to specify QR Code version as 25x25, Module size of 10px, and EC Level as H, Mask Pattern as 3
+
+![](attachments/Pasted%20image%2020250403183925.png)
