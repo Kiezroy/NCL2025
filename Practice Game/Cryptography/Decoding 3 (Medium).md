@@ -28,4 +28,6 @@ MTMtMS0yNSAyMC04LTUgNi0xNS0xOC0zLTUgMi01IDIzLTktMjAtOCAyNS0xNS0yMQ==
 - This 1st phrase is base64 encoded
 
 - After decoding it is `13-1-25 20-8-5 6-15-18-3-5 2-5 23-9-20-8 25-15-21`
-- This 2nd phrase is 
+- This 2nd phrase is Letter Number Code A1Z26
+
+- After decoding it is `MAYTHEFORCEBEWITHYOU`
