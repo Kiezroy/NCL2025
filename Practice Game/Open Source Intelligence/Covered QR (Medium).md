@@ -43,6 +43,7 @@ What is the flag? (40 pts)
 ![](attachments/Pasted%20image%2020250403183925.png)
 
 - Most most of the QR code is reconstructed, view it with Tools > Extract QR information
+![](attachments/Pasted%20image%2020250403184241.png)
 
 ![](attachments/Pasted%20image%2020250403184018.png)
 
