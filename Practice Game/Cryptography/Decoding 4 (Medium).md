@@ -1,6 +1,7 @@
 
 We have intercepted encrypted messages between hackers. Decipher them and find out what they are saying.
 
+- Use multidecoder https://www.cachesleuth.com/multidecoder/
 
 Q1 - 10 points
 
