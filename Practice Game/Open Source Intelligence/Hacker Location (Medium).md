@@ -25,3 +25,5 @@ What is the name of the building where the meeting is planned? (30 pts)
 
 ![](attachments/Pasted%20image%2020250406095346.png)
 
+`Het Scheepvaartmuseum`
+
