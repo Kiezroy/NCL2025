@@ -6,7 +6,9 @@ What is the name and version of the software?
 
 - Run an nmap scan on port 8090
 
-
+`PORT     STATE SERVICE       VERSION
+8090/tcp open  opsmessaging?
+`
 
 Q2 - 25 points
 What is the flag?
