@@ -85,3 +85,6 @@ Mom : REDACTED, Dad : REDACTED
 - Since schedule has the most characters, it should be the longest
 - Replicate the phrase in a file and look at the size
 
+![](attachments/dgdLs4wkWh.png)
+
+``
