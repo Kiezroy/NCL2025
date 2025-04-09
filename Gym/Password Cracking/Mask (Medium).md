@@ -1,6 +1,11 @@
 
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they are all in the format: `SKY-HQNT-` followed by 4 digits. Can you crack them?
 
+- Identify the hashes as MD5
+- Use hashcat with brute force enabled for digits
+
+Example:
+
 
 
 | User                                                                                                 | Password Ciphertext              | Answer |
