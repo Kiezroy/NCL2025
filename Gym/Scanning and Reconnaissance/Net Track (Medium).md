@@ -68,3 +68,18 @@ SKY-NCAT-3071
 
 Q3 - 50 points
 What is the size of the largest file in bytes?
+
+Use `get` to see all the files
+
+```
+get secret
+SKY-NCAT-3071
+get notes
+TODO: take flag off server
+get schedule
+Completely free and busy when convenient
+get contacts
+Mom : REDACTED, Dad : REDACTED
+```
+
+- Since schedule 
