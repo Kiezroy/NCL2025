@@ -5,3 +5,11 @@ We have captured an encrypted pdf from a hacker's FTP server. Decrypt it and fin
 
 What is the password used to encrypt the pdf? (25 pts)
 
+- Use pdf2john to create the hash of the encrypted file
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ pdf2john encrypted.pdf > pdf.txt
+```
+
+- Run
