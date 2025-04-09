@@ -8,9 +8,11 @@ Q1 - 15 points
 
 Who is the issuer for Cyber Skyline's SSL certificate?
 
-- Look at the certificate in the web broswer
+- Look at the certificate in the web browser
 
+![](attachments/Pasted%20image%2020250408183315.png)
 
+`Sectigo RSA Domain Validation Secure Server CA`
 
 
 Q2 - 15 points
