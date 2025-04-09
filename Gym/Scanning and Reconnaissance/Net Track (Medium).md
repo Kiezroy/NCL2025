@@ -82,4 +82,6 @@ get contacts
 Mom : REDACTED, Dad : REDACTED
 ```
 
-- Since schedule 
+- Since schedule has the most characters, it should be the longest
+- Replicate the phrase in a file and look at the size
+
