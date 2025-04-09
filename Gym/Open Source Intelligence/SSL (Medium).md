@@ -30,3 +30,8 @@ Q3 - 15 points
 
 How many certificates are in the certificate chain?
 
+- Look at the certificate Hierarchy
+
+![](attachments/Pasted%20image%2020250408184246.png)
+
+`3`
