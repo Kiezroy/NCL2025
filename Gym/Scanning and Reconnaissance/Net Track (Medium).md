@@ -87,4 +87,4 @@ Mom : REDACTED, Dad : REDACTED
 
 ![](attachments/dgdLs4wkWh.png)
 
-``
+`40 bytes`
