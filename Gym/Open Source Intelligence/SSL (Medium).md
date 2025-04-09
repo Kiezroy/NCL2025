@@ -19,6 +19,7 @@ Q2 - 15 points
 
 How many bits long is the SSL key?
 
+- Details > Subject Public Key Info > Subject's Public Key
 
 
 
