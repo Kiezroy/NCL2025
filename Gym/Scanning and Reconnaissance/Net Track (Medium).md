@@ -4,7 +4,9 @@ Can you interact with the strange server at `net-track.services.cityinthe.cloud:
 Q1 - 25 points
 What is the name and version of the software?
 
-- Run an nm
+- Run an nmap scan on port 8090
+
+
 
 Q2 - 25 points
 What is the flag?
