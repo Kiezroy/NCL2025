@@ -23,9 +23,28 @@ PORT     STATE SERVICE       VERSION
 
 - Port is behaving weirdly (showing open and closed)
 
+- Try with netcat
 
+```
+┌──(kali㉿kali)-[~]
+└─$ nc net-track.services.cityinthe.cloud 8090
 
+Use help to get a list of supported commands
+help
+Here is a list of commands
+version
+list
+get
+help
+version
+RadicalShell v9
 
+```
+
+- Gives a hung shell prompt
+- Type in a command and it will appear
+
+`RadicalShell v9`
 
 Q2 - 25 points
 What is the flag?
