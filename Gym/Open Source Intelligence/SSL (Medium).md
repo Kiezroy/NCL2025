@@ -21,8 +21,12 @@ How many bits long is the SSL key?
 
 - Details > Subject Public Key Info > Subject's Public Key
 
+![](attachments/Pasted%20image%2020250408183628.png)
+
+`2048`
 
 
 Q3 - 15 points
 
 How many certificates are in the certificate chain?
+
