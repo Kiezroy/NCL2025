@@ -49,7 +49,22 @@ RadicalShell v9
 Q2 - 25 points
 What is the flag?
 
+- Run the `list` command
 
+```
+list
+records
+secret
+notes
+schedule
+contacts
+
+get secret
+SKY-NCAT-3071
+
+```
+
+`SKY-NCAT-3071`
 
 Q3 - 50 points
 What is the size of the largest file in bytes?
