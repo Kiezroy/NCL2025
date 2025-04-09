@@ -1,6 +1,8 @@
 Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they are based on Pokemon.
 
-- Create `hashes.txt` fiel
+- Create `hashes.txt` file with all the hashes
+- Find a wordlist online of a pokemon wordlist
+- Apply a ruleset to hashcat to make the brute forcing more diverse
 
 
 
