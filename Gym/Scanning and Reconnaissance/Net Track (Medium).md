@@ -6,9 +6,26 @@ What is the name and version of the software?
 
 - Run an nmap scan on port 8090
 
-`PORT     STATE SERVICE       VERSION
+```
+┌──(kali㉿kali)-[~]
+└─$ nmap -p 8090 net-track.services.cityinthe.cloud 
+
+PORT     STATE SERVICE       VERSION
 8090/tcp open  opsmessaging?
-`
+
+
+┌──(kali㉿kali)-[~]
+└─$ nmap -sV  -p 8090 net-track.services.cityinthe.cloud 
+
+PORT     STATE SERVICE       VERSION
+8090/tcp closed  opsmessaging?
+```
+
+- Port is behaving weirdly (showing open and closed)
+
+
+
+
 
 Q2 - 25 points
 What is the flag?
