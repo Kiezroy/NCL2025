@@ -11,6 +11,16 @@ Example:
 └─$ hashcat -m 0 -a 3 "71b816fe0b7b763d889ecc227eab400a" SKY-HQNT-?d?d?d?d
 ```
 
+Can also do multiple cracks at once by putting in one file
+
+```
+┌──(kali㉿kali)-[~]
+└─$ hashcat -m 0 -a 3 hashes.txt SKY-HQNT-?d?d?d?d 
+
+
+
+```
+
 | User                                                                                                 | Password Ciphertext              | Answer          |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------- | --------------- |
 | ![](https://assets.cyberskyline.com/img/avatars/small/helen.jpg?t=3)<br><br>Helen<br><br>20 points   | 71b816fe0b7b763d889ecc227eab400a | `SKY-HQNT-8765` |
