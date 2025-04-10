@@ -1,0 +1,12 @@
+Cyber Command
+
+Our analysts have obtained password dumps storing hacker passwords. After obtaining a few plaintext passwords, it appears that they are all simply encoded using different number bases.
+
+Use Cyberchef to decode: https://gchq.github.io/CyberChef/
+
+| User                                                                                                       | Password Ciphertext                                                                                                                            | Answer   |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/patrick.png?t=3)<br><br>Patrick<br><br>5 points | 0x73636f7270696f6e     (Hex)                                                                                                                   | scorpion |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/stevie.jpg?t=3)<br><br>Stevie<br><br>5 points   | c2NyaWJibGU=      (Base64)                                                                                                                     | scribble |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/nan.jpg?t=3)<br><br>Nan<br><br>5 points         | 01110011 01100101 01100011 01110101 01110010 01100101 01101100 01111001          (Binary)                                                      | securely |
+| #### ![](https://assets.cyberskyline.com/img/avatars/small/molly.png?t=3)<br><br>Molly<br><br>10 points    | 01100010 01000111 00111001 01110011 01100010 01000111 01101100 01110111 01100010 00110011 01000001 00111101    binary to base64 > bG9sbGlwb3A= | lollipop |
