@@ -13,7 +13,7 @@ Q1 - 25 points
 
 What Cipher Suite was chosen by the secure socket server?
 
-
+- Packet 6 > Transport Security Layer > Handshake Protocol: Server Hello
 
 Q2 - 25 points
 
