@@ -29,7 +29,13 @@ Warning                         : JPEG format error
 
 - Run strings on the file 
 - Discover important words like "JFIF", "IHDR", "IDAT", etc...
-- Discover I
+- Discover IHDR and IDAT is PNG format
+
+![](attachments/Pasted%20image%2020250409192230.png)
+
+`PNG`
+
+What is the flag? (75 pts)
 
 - Use `xxd` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
