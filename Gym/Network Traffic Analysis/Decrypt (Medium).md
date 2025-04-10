@@ -7,7 +7,7 @@ The S in HTTPS stands for secure and it uses the TLS/SSL protocol to achieve its
 
 
 - Start wireshark
-- Navigate to Edit > Preferences > TLS
+- Navigate to Edit > Preferences > TLS > Insert ssl key log
 
 Q1 - 25 points
 
