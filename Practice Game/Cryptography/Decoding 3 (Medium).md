@@ -9,13 +9,13 @@ NTQ2ODY5NzMyMDY5NzMyMDc0Njg2NTIwNzA2NTcyNjY2NTYzNzQyMDc0Njk2ZDY1MjA3NDZmMjA3MDYx
 
 - Use the cipher identifier to analyze the code and see that this is base64 encoded
 
-![](attachments/Pasted%20image%2020250403212302.png)
+![](Pasted%20image%2020250403212302.png)
 
 ![](attachments/Pasted%20image%2020250403212357.png)
 
 - Analyze it again and decode it from Hex
 
-![](attachments/Pasted%20image%2020250403212409.png)
+![](Pasted%20image%2020250403212409.png)
 
 ![](attachments/Pasted%20image%2020250403212424.png)
 

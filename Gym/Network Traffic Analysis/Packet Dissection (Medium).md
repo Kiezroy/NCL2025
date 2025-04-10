@@ -37,9 +37,11 @@ What is the TTL of the packet?
 Q3 - 30 points  
 What is the source IP address?
 
-![Pasted image 20250410122607.png](../../attachments/Pasted%20image%2020250410122607.png)
-
 ![Pasted image 20250410122645.png](../../attachments/Pasted%20image%2020250410122645.png)
+
+
+
+
 
 Q4 - 30 points  
 What is the destination IP address?

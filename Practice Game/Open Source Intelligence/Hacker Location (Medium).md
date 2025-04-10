@@ -15,7 +15,7 @@ We have been getting chatter from a group of malicious hackers setting up a meet
 
 What is the name of the city where the meeting is planned? (20 pts)
 
-![](attachments/Pasted%20image%2020250406095309.png)
+![](Pasted%20image%2020250406095309.png)
 
 `Amsterdam`
 

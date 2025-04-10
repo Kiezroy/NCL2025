@@ -7,7 +7,7 @@ Q1 - 10 points
 
 Sr mmeuiyi iiactsnl
 
-![](attachments/Pasted%20image%2020250403213136.png)
+![](Pasted%20image%2020250403213136.png)
 
 `Security is minimal`
 
