@@ -13,7 +13,9 @@ Dissect an IP packet header to understand how the protocol works.
 Q1 - 20 points  
 What is the header checksum in hexadecimal representation?
 
-- Check where the
+- Check where the Header Checksum is located
+- Its at columns 16-31 at row 3 (64 bits)
+- 
 
 
 Q2 - 20 points  
