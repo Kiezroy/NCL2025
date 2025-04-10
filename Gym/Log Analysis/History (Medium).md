@@ -49,7 +49,7 @@ Q5 - 15 points
 
 What was the ID of the Bitcoin transaction that the user looked at?
 
-
+- Listing 70 has a link to blockchain.info
 
 
 Q6 - 20 points
