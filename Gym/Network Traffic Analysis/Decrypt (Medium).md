@@ -13,7 +13,11 @@ Q1 - 25 points
 
 What Cipher Suite was chosen by the secure socket server?
 
-- Packet 6 > Transport Security Layer > Handshake Protocol: Server Hello
+- Packet 6 > Transport Security Layer > Handshake Protocol: Server Hello > Cipher Suite
+
+![](attachments/Pasted%20image%2020250409223740.png)
+
+`TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256`
 
 Q2 - 25 points
 
