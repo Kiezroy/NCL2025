@@ -31,20 +31,31 @@ Q3 - 10 points
 
 What Bitcoin exchange did the user log in to?
 
+![](attachments/Pasted%20image%2020250409211153.png)
 
+`coinbase.com`
 
 
 Q4 - 15 points
 
 What is the email that was used to log into the exchange?
 
+
+
+
 Q5 - 15 points
 
 What was the ID of the Bitcoin transaction that the user looked at?
 
+
+
+
 Q6 - 20 points
 
 What was the total BTC of all the inputs of the Bitcoin transaction?
+
+
+
 
 
 Q7 - 20 points
