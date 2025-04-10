@@ -6,7 +6,7 @@ Analyze a Firefox sqlite history database and answer questions about what happen
 - Open sqlite file in sqlite browser on kali VM
 - Open Database > browser.sqlite
 
-![](Pasted%20image%2020250409210742.png)
+![](../../attachments/Pasted%20image%2020250409210742.png)
 
 Q1 - 10 points
 
@@ -14,7 +14,7 @@ What did the user search for on craigslist?
 
 - Browse Data > Listing 23
 
-![](attachments/Pasted%20image%2020250409211104.png)
+![](../../attachments/Pasted%20image%2020250409211104.png)
 
 `bitcoin`
 
@@ -22,7 +22,7 @@ Q2 - 10 points
 
 What was the current price of bitcoin when the user was browsing?
 
-![](Pasted%20image%2020250409211128.png)
+![](../../attachments/Pasted%20image%2020250409211128.png)
 
 `239.5`
 
@@ -31,7 +31,7 @@ Q3 - 10 points
 
 What Bitcoin exchange did the user log in to?
 
-![](attachments/Pasted%20image%2020250409211153.png)
+![](../../attachments/Pasted%20image%2020250409211153.png)
 
 `coinbase.com`
 
@@ -40,7 +40,7 @@ Q4 - 15 points
 
 What is the email that was used to log into the exchange?
 
-![](Pasted%20image%2020250409211405.png)
+![](../../attachments/Pasted%20image%2020250409211405.png)
 
 
 `b1gbird@gmail.com`
@@ -52,7 +52,7 @@ What was the ID of the Bitcoin transaction that the user looked at?
 - Listing 70 has a link to blockchain.info: http://blockchain.info/tx/5274cfba585a4b5681527a37f95c76340428916bb7480cef6c545f0a28dcd2d7
 - Look for the ID
 
-![](attachments/Pasted%20image%2020250409211726.png)
+![](../../attachments/Pasted%20image%2020250409211726.png)
 
 `5274cfba585a4b5681527a37f95c76340428916bb7480cef6c545f0a28dcd2d7`
 
@@ -62,7 +62,7 @@ What was the total BTC of all the inputs of the Bitcoin transaction?
 
 - Add the total of the 2 inputs
 
-![](Pasted%20image%2020250409212618.png)
+![](../../attachments/Pasted%20image%2020250409212618.png)
 
 `.22616302`
 
@@ -73,4 +73,4 @@ Which bitcoin address received the majority of the Bitcoin in the transaction?
 
 - Look at the address with the greatest amount
 
-![](attachments/Pasted%20image%2020250409212945.png)
+![](../../attachments/Pasted%20image%2020250409212945.png)

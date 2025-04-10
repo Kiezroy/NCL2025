@@ -22,7 +22,7 @@ Q1 - 10 points
 
 What is the display name of the author of this git project?
 
-![](Pasted%20image%2020250330211758.png)
+![](../../attachments/Pasted%20image%2020250330211758.png)
 
 `Cyber Cyber`
 
@@ -30,7 +30,7 @@ Q2 - 10 points
 
 What is the short commit hash (first 8 characters) of the initial commit?
 
-![](attachments/Pasted%20image%2020250330211849.png)
+![](../../attachments/Pasted%20image%2020250330211849.png)
 
 `f9714edd`
 
@@ -38,7 +38,7 @@ Q3 - 15 points
 
 What is flag #1?
 
-![](Pasted%20image%2020250330211906.png)
+![](../../attachments/Pasted%20image%2020250330211906.png)
 
 `SKY-HSNO-2303`
 
@@ -49,7 +49,7 @@ What is flag #2?
 - Explore the branches and go to the flag2 branch
 - Find flag2.txt
 
-![](attachments/Pasted%20image%2020250330211956.png)
+![](../../attachments/Pasted%20image%2020250330211956.png)
 
 `SKY-OZNW-3730`
 
@@ -59,7 +59,7 @@ What is flag #3?
 
 - Right on the project page
 
-![](Pasted%20image%2020250330212037.png)
+![](../../attachments/Pasted%20image%2020250330212037.png)
 
 `SKY-CCXL-4067`
 
@@ -69,7 +69,7 @@ What is flag #4?
 
 - Go to past commits and find the flag
 
-![](attachments/Pasted%20image%2020250330212156.png)
+![](../../attachments/Pasted%20image%2020250330212156.png)
 
 `SKY-IRRK-9672`
 
@@ -80,6 +80,6 @@ What is flag #5?
 - Go to the commit of removing flag 4
 - Hit the three dots to toggle commit description
 
-![](Pasted%20image%2020250330212253.png)
+![](../../attachments/Pasted%20image%2020250330212253.png)
 
 `SKY-DKIT-9801`

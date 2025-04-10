@@ -73,7 +73,7 @@ Which IP address attempted to exploit the shellshock vulnerability?
 
 - Research shellshock vulnerability and see it is a bug in Unix Bash shell
 
-![](Pasted%20image%2020250409215620.png)
+![](../../attachments/Pasted%20image%2020250409215620.png)
 
 ```
 ┌──(kali㉿kali)-[~/Downloads]

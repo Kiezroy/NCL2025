@@ -8,7 +8,7 @@ How many total login attempts were made in this log?
 
 - Look at how many lines were made
 
-![](Pasted%20image%2020250330173725.png)
+![](../../attachments/Pasted%20image%2020250330173725.png)
 
 `6063`
 

@@ -8,7 +8,7 @@ Q1 - 20 points
 
 What is the type of the DNS query requested?
 
-![](Pasted%20image%2020250330182851.png)
+![](../../attachments/Pasted%20image%2020250330182851.png)
 
 `AXFR`
 
@@ -24,7 +24,7 @@ How many items were in the response?
 
 - Look at the frame number
 
-![](attachments/Pasted%20image%2020250330183724.png)
+![](../../attachments/Pasted%20image%2020250330183724.png)
 
 `4`
 
@@ -36,7 +36,7 @@ What is the TTL for all of the DNS records?
 
 - Look at the "Time to live"
 
-![](Pasted%20image%2020250330184030.png)
+![](../../attachments/Pasted%20image%2020250330184030.png)
 
 `3600`
 
@@ -44,6 +44,6 @@ Q5 - 20 points
 
 What is the IP address for the "welcome" subdomain?
 
-![](attachments/Pasted%20image%2020250330184116.png)
+![](../../attachments/Pasted%20image%2020250330184116.png)
 
 `1.1.1.1`
