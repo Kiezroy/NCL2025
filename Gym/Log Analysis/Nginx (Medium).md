@@ -114,12 +114,34 @@ Q8 - 10 points
 
 What is the most common HTTP method used?
 
+"Extract the 6th field (with the HTTP method), sort, get the unique values with a count of the occurrences of each value, and then sort in descending numeric order."
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | awk -F " " '{print $6}' | sort | uniq -c | sort -rn
+
+     60 "GET
+     15 "CONNECT
+      6 "\x04\x01\x00P\xC6\xCE\x0Eu0\x00"
+      6 ""
+      4 "\x05\x01\x00"
+      4 "\x00"
+      1 "\x04\x01\x00P\xC0c\xF660\x00"
+      1 "quit"
+      1 "POST
+      1 "HEAD
+
+```
+
+`GET`
 
 Q9 - 10 points
 
 What is the second most common HTTP method used?
 
+`CONNECT`
+
 Q10 - 10 points
 
 How many requests were for \x04\x01\x00P\xC6\xCE\x0Eu0\x00?
+
