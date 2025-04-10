@@ -26,7 +26,7 @@ What is the header checksum in hexadecimal representation?
 Q2 - 20 points  
 What is the TTL of the packet?
 
-- Row 4, line 1 (1st 8 bits or 1 byte)
+- Row 3, line 1 (1st 8 bits or 1 byte)
 
 ![[../../attachments/Pasted image 20250410121651.png]]
 
