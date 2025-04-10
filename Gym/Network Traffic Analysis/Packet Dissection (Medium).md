@@ -16,7 +16,7 @@ What is the header checksum in hexadecimal representation?
 - Check where the Header Checksum is located
 - Its at columns 16-31 at row 3 (64 bits)
 
-![[Pasted image 20250410124638.png]]
+![[../../attachments/Pasted image 20250410124638.png|Pasted image 20250410124638.png]]
 
 ![attachments/Pasted image 20250410121600.png](../../attachments/Pasted%20image%2020250410121600.png)
 
