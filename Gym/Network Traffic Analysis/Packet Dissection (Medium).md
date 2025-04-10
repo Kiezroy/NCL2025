@@ -4,8 +4,7 @@ Dissect an IP packet header to understand how the protocol works.
 ![](attachments/Pasted%20image%2020250409224312.png)
 
 
-<img src="attachments/Pasted%20image%2020250409224330.png" width="1000">
-
+<img src="attachments/Pasted%20image%2020250409224330.png" width="1200">
 
 
 
