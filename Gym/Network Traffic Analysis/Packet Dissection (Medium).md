@@ -39,7 +39,7 @@ What is the source IP address?
 
 ![Pasted image 20250410122645.png](../../attachments/Pasted%20image%2020250410122645.png)
 
-![[Pasted image 20250410123943.png]]
+![[../../attachments/Pasted image 20250410123943.png|Pasted image 20250410123943.png]]
 
 `192.168.128.128`
 
