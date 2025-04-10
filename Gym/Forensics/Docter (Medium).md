@@ -48,4 +48,6 @@ Q2 - 80 points
 
 What is the flag?
 
-``
+![](attachments/Pasted%20image%2020250409194422.png)
+
+`SKY-RATL-8439`
