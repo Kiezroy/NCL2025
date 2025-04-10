@@ -4,6 +4,7 @@ Analyze a Firefox sqlite history database and answer questions about what happen
 [browser.sqlite](https://cyberskyline.com/artifact/65e54bcb52369daf3dc4725b/677847d9b4401661d5860dea/65b015dbad4ea5fef1fceaa6/65b015dfad4ea5fef1fcebfc/65b015dfad4ea5fef1fcebfe/download?t=3)
 
 - Open sqlite file in sqlite browser on kali VM
+- Open Database > browser.sqlite
 
 ![](attachments/Pasted%20image%2020250409210742.png)
 
@@ -11,7 +12,7 @@ Q1 - 10 points
 
 What did the user search for on craigslist?
 
-
+- Open SQLite browser > Open Database > browser.sqlite
 
 Q2 - 10 points
 
