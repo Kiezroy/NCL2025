@@ -6,7 +6,7 @@ Dissect an IP packet header to understand how the protocol works.
 
 <img src="attachments/Pasted%20image%2020250409224330.png" width="1200">
 
-![[../../attachments/Pasted image 20250410115218.png]]
+![[attachments/Pasted image 20250410115218.png]]
 
 
 
@@ -16,9 +16,9 @@ What is the header checksum in hexadecimal representation?
 - Check where the Header Checksum is located
 - Its at columns 16-31 at row 3 (64 bits)
 
-![[../../attachments/Pasted image 20250410121546.png]]
+![[attachments/Pasted image 20250410121546.png]]
 
-![[../../attachments/Pasted image 20250410121600.png]]
+![[attachments/Pasted image 20250410121600.png]]
 
 `4f 93`
 
@@ -28,7 +28,7 @@ What is the TTL of the packet?
 
 - Row 3, line 1 (1st 8 bits or 1 byte)
 
-![[../../attachments/Pasted image 20250410121651.png]]
+![[attachments/Pasted image 20250410122246.png]]
 
 
 
