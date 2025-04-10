@@ -30,7 +30,7 @@ What is the TTL of the packet?
 
 ![[attachments/Pasted image 20250410122246.png]]
 
-
+![[attachments/Pasted image 20250410122425.png]]
 
 Q3 - 30 points  
 What is the source IP address?
