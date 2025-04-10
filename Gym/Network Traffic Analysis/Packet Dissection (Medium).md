@@ -46,3 +46,8 @@ What is the source IP address?
 Q4 - 30 points  
 What is the destination IP address?
 
+![[../../attachments/Pasted image 20250410124810.png|Pasted image 20250410124810.png]]
+
+![[../../attachments/Pasted image 20250410124845.png|Pasted image 20250410124845.png]]
+
+`159.203.96.154`
