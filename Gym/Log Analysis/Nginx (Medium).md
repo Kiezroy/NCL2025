@@ -7,6 +7,9 @@ Q1 - 10 points
 
 How many different IP addresses reached the server?
 
+
+
+
 Q2 - 10 points
 
 How many requests yielded a 200 status?
