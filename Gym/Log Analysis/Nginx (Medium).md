@@ -15,9 +15,24 @@ Q2 - 10 points
 
 How many requests yielded a 200 status?
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | cut -d '"' -f 3 | cut -d ' ' -f 2 | sort | uniq -c | sort -rn
+
+38 400
+  21 404
+   19 502   19 200
+ 2 301
+
+```
+
+`19`
+
 Q3 - 10 points
 
 How many requests yielded a 400 status?
+
+``
 
 Q4 - 10 points
 
