@@ -1,4 +1,5 @@
 {
-  "newLinkFormat": "shortest",
-  "attachmentFolderPath": "attachments"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true
 }
