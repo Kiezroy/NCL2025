@@ -7,8 +7,9 @@ Q1 - 10 points
 
 How many different IP addresses reached the server?
 
-
-
+`cat access.log | cut -d " " -f 1 | sort | uniq | wc -l
+`
+`47`
 
 Q2 - 10 points
 
