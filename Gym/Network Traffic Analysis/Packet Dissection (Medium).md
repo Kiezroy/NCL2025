@@ -32,10 +32,14 @@ What is the TTL of the packet?
 
 ![[attachments/Pasted image 20250410122425.png]]
 
+`64`
+
 Q3 - 30 points  
 What is the source IP address?
 
+![[Pasted image 20250410122607.png]]
 
+![[Pasted image 20250410122645.png]]
 
 Q4 - 30 points  
 What is the destination IP address?
