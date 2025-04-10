@@ -39,11 +39,20 @@ Q4 - 10 points
 
 What IP address rang at the doorbell?
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep -i "ring"                                               
+186.64.69.141 - - [30/Sep/2015:18:59:20 -0400] "GET /Ringing.at.your.dorbell! HTTP/1.0" 404 162 "http://google.com/search?q=bitcoin" "x00_-gawa.sa.pilipinas.2015"
+```
 
+`186.64.69.141`
 
 Q5 - 10 points
 
 What version of the Googlebot visited the website?
+
+
+
 
 Q6 - 10 points
 
