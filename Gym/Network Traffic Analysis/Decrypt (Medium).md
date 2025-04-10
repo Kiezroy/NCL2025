@@ -23,7 +23,7 @@ Q2 - 25 points
 
 What is the domain covered by the SSL key?
 
-- 
+- Packet 6 > TLSv1.2 Record Layer: Handshake
 
 ![](attachments/Pasted%20image%2020250409223930.png)
 
