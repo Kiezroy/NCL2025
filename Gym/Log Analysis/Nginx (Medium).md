@@ -108,9 +108,13 @@ What was the most popular version of Firefox used for browsing the website?
 
 ```
 
+
+
 Q8 - 10 points
 
 What is the most common HTTP method used?
+
+
 
 Q9 - 10 points
 
