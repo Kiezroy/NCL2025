@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL2025/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "dec3e772bfba0ee5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +182,7 @@
   "active": "5073248fafa9b7b9",
   "lastOpenFiles": [
     "README.md",
-    "NCL2025/README.md",
+    "README.md",
     "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
     "Practice Game/Forensics/Archived (Easy).md",
     "Practice Game/Web Application Exploitation/attachments/Pasted image 20250406095601.png",
