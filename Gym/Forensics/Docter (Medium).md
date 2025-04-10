@@ -7,7 +7,8 @@ Q1 - 20 points
 
 What is the name of the hidden file containing the flag?
 
-
+- `.docx` is actually ZIP compressed archive
+- Can unzip if change to a zip file
 
 
 Q2 - 80 points
