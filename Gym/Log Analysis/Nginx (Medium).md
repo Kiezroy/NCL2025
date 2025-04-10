@@ -108,7 +108,7 @@ What was the most popular version of Firefox used for browsing the website?
 
 ```
 
-
+`31.0`
 
 Q8 - 10 points
 
