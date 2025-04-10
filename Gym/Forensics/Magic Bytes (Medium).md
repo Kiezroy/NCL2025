@@ -27,5 +27,8 @@ Warning                         : JPEG format error
 
 ```
 
+- Run strings on the file 
+- Discover important phr
+
 - Use `xxd` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
