@@ -71,3 +71,6 @@ Q7 - 20 points
 
 Which bitcoin address received the majority of the Bitcoin in the transaction?
 
+- Look at the address with the greatest amount
+
+![](attachments/Pasted%20image%2020250409212945.png)
