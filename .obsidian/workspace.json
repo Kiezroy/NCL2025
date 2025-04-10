@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
+                "file": "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet Dissection (Medium)"
+              "title": "Python 1 (Easy)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
+                "file": "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Packet Dissection (Medium)"
+              "title": "Backlinks for Python 1 (Easy)"
             }
           },
           {
@@ -182,12 +182,16 @@
   },
   "active": "7359681824f23534",
   "lastOpenFiles": [
+    "Gym/Enumeration and Exploitation/Timebomb (Easy).md",
+    "Gym/Enumeration and Exploitation/Bytes (Easy).md",
+    "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
+    "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
+    "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
     "attachments/Pasted image 20250410125822.png",
     "attachments/Pasted image 20250410125806.png",
     "attachments/Pasted image 20250410125754.png",
     "attachments/Pasted image 20250410125742.png",
     "Gym/Network Traffic Analysis/HTTP (Easy).md",
-    "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
     "Gym/Network Traffic Analysis/Decrypt (Medium).md",
     "attachments/Pasted image 20250410124959.png",
     "attachments/Pasted image 20250410124957.png",
@@ -195,7 +199,6 @@
     "attachments/Pasted image 20250410124810.png",
     "attachments/Pasted image 20250410124638.png",
     "attachments/Pasted image 20250410123943.png",
-    "attachments/Pasted image 20250410123521.png",
     "attachments/Pasted.md",
     "attachments",
     "Gym/Network Traffic Analysis/FTP Traffic (Easy).md",
@@ -221,9 +224,6 @@
     "Practice Game/Network Traffic Analysis/attachments",
     "Practice Game/Log Analysis/IIS (Easy).md",
     "Practice Game/Enumeration and Exploitation/Dropper (Easy).md",
-    "Practice Game/Cryptography/Decoding 3 (Medium).md",
-    "Practice Game/Cryptography/Decoding 4 (Medium).md",
-    "Practice Game/Cryptography/Decoding 2 (Easy).md",
     "Practice Game/Cryptography/attachments",
     "Practice Game/Web Application Exploitation",
     "Practice Game/Password Cracking",
