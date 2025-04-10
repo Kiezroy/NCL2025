@@ -8,7 +8,7 @@ Q1 - 10 points
 
 What was the first username:password combination attempt made to log in to the server? (e.g. user:password)
 
-![](attachments/Pasted%20image%2020250330184407.png)
+![](Pasted%20image%2020250330184407.png)
 
 `user1:cyberskyline`
 
@@ -24,7 +24,7 @@ Q3 - 10 points
 
 What is the first username:password combination that allows for successful authentication? (e.g. user:password)
 
-![](attachments/Pasted%20image%2020250330185608.png)
+![](Pasted%20image%2020250330185608.png)
 
 `user1:metropolis`
 
@@ -40,7 +40,7 @@ Q5 - 15 points
 
 What file is deleted from the ftp server?
 
-![](attachments/Pasted%20image%2020250330184338.png)
+![](Pasted%20image%2020250330184338.png)
 
 `bank.cap`
 
@@ -58,7 +58,7 @@ What is the filesize (in bytes) of the uploaded file?
 
 - Add all the bytes which refer to compcodes.zip
 
-![](attachments/Pasted%20image%2020250330185907.png)
+![](Pasted%20image%2020250330185907.png)
 
 `28183`
 

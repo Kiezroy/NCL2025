@@ -9,7 +9,7 @@ Q1 - 15 points
 
 What is the key fingerprint for security@cpanel.net?
 
-![](attachments/Pasted%20image%2020250330105433.png)
+![](Pasted%20image%2020250330105433.png)
 
 `[ded38747ceefc789fdc3a6154cf279c5c0424907](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xded38747ceefc789fdc3a6154cf279c5c0424907)`
 
@@ -25,6 +25,6 @@ Q3 - 15 points
 
 On what date does the above key expire (in UTC)?
 
-![](attachments/Pasted%20image%2020250330105600.png)
+![](Pasted%20image%2020250330105600.png)
 
 `2050-12-26`

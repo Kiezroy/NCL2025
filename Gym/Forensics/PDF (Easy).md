@@ -8,7 +8,7 @@ What is the name of the program that exported this PDF file?
 
 - Use exiftool
 
-	![](attachments/Pasted%20image%2020250330155544.png)
+	![](Pasted%20image%2020250330155544.png)
 
 `Adobe Photoshop`
 
@@ -35,6 +35,6 @@ Q4 - 50 points
 What is the flag?
 
 - Look at the TextLayer area
-	![](attachments/Pasted%20image%2020250330160334.png)
+	![](Pasted%20image%2020250330160334.png)
 
 `SKY-PDRD-2390`

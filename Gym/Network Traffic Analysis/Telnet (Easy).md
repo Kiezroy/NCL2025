@@ -8,11 +8,11 @@ What is the username that was used to log in?
 
 - Go through the telnet packets and assemble the username
 
-![](attachments/Pasted%20image%2020250330202401.png)
+![](Pasted%20image%2020250330202401.png)
 
 ![](attachments/Pasted%20image%2020250330202411.png)
 
-![](attachments/Pasted%20image%2020250330202431.png)
+![](Pasted%20image%2020250330202431.png)
 
 ![](attachments/Pasted%20image%2020250330202443.png)
 
@@ -24,7 +24,7 @@ What is the password that was used to log in?
 
 - Follow the same method as Q1
 
-![](attachments/Pasted%20image%2020250330202551.png)
+![](Pasted%20image%2020250330202551.png)
 
 - Eventually will get `capture`
 
@@ -37,7 +37,7 @@ What command was executed once the user was authenticated?
 
 ![](attachments/Pasted%20image%2020250330202720.png)
 
-![](attachments/Pasted%20image%2020250330202727.png)
+![](Pasted%20image%2020250330202727.png)
 
 ![](attachments/Pasted%20image%2020250330202737.png)
 
@@ -48,7 +48,7 @@ Q4 - 20 points
 
 In what year was this capture created?
 
-![](attachments/Pasted%20image%2020250330203737.png)
+![](Pasted%20image%2020250330203737.png)
 
 `2011`
 

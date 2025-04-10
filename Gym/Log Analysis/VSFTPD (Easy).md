@@ -7,7 +7,7 @@ Q1 - 5 points
 
 What IP address did "ftpuser" first log in from?
 
-![](attachments/Pasted%20image%2020250330172205.png)
+![](Pasted%20image%2020250330172205.png)
 
 `10.0.0.123`
 
@@ -23,7 +23,7 @@ Q3 - 5 points
 
 What is the last directory that ftpuser created?
 
-![](attachments/Pasted%20image%2020250330172319.png)
+![](Pasted%20image%2020250330172319.png)
 
 `110D300S`
 

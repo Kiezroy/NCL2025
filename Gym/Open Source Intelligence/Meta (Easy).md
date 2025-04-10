@@ -4,7 +4,7 @@ Q1 - 10 points
 
 When was the image created? Round down to the nearest minute
 
-![](attachments/Pasted%20image%2020250330094504.png)
+![](Pasted%20image%2020250330094504.png)
 
 
 Q2 - 10 points
@@ -31,7 +31,7 @@ Q5 - 10 points
 
 What is the exposure time for the picture? (ex: 1/200)
 
-![](attachments/Pasted%20image%2020250330095002.png)
+![](Pasted%20image%2020250330095002.png)
 
 Q6 - 20 points
 

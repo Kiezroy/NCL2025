@@ -8,7 +8,7 @@ Q1 - 20 points
 
 What is the type of the DNS query requested?
 
-![](attachments/Pasted%20image%2020250330182851.png)
+![](Pasted%20image%2020250330182851.png)
 
 `AXFR`
 
@@ -36,7 +36,7 @@ What is the TTL for all of the DNS records?
 
 - Look at the "Time to live"
 
-![](attachments/Pasted%20image%2020250330184030.png)
+![](Pasted%20image%2020250330184030.png)
 
 `3600`
 

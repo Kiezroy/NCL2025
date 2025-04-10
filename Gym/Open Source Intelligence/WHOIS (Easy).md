@@ -8,7 +8,7 @@ Q1 - 10 points
 
 Who is the registrar of this domain?
 
-![](attachments/Pasted%20image%2020250330103758.png)
+![](Pasted%20image%2020250330103758.png)
 
 `Dynadot Inc`
 
@@ -24,7 +24,7 @@ Q3 - 10 points
 
 What is this domain's registry domain ID?
 
-![](attachments/Pasted%20image%2020250330103939.png)
+![](Pasted%20image%2020250330103939.png)
 
 `D15CD1AC4DEB54207A5048A69B9FC0558-ARI`
 
@@ -40,6 +40,6 @@ Q5 - 10 points
 
 What organization manages the TLD used by cityinthe.cloud?
 
-![](attachments/Pasted%20image%2020250330104249.png)
+![](Pasted%20image%2020250330104249.png)
 
 `ARUBA PEC`

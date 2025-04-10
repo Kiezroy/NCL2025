@@ -33,7 +33,7 @@ Warning                         : JPEG format error
 - Discover important words like "JFIF", "IHDR", "IDAT", etc...
 - Discover IHDR and IDAT is PNG format
 
-![](attachments/Pasted%20image%2020250409192230.png)
+![](Pasted%20image%2020250409192230.png)
 
 `PNG`
 
@@ -46,7 +46,7 @@ What is the flag? (75 pts)
 
 - Since JPG was 12 bytes, fill the extra 4 bytes with bytes from any PNG image
 
-![](attachments/Pasted%20image%2020250409192835.png)
+![](Pasted%20image%2020250409192835.png)
 
 - Open the flag.jpeg file now and discover the flag
 

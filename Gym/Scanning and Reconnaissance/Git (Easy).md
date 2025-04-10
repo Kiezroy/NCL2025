@@ -22,7 +22,7 @@ Q1 - 10 points
 
 What is the display name of the author of this git project?
 
-![](attachments/Pasted%20image%2020250330211758.png)
+![](Pasted%20image%2020250330211758.png)
 
 `Cyber Cyber`
 
@@ -38,7 +38,7 @@ Q3 - 15 points
 
 What is flag #1?
 
-![](attachments/Pasted%20image%2020250330211906.png)
+![](Pasted%20image%2020250330211906.png)
 
 `SKY-HSNO-2303`
 
@@ -59,7 +59,7 @@ What is flag #3?
 
 - Right on the project page
 
-![](attachments/Pasted%20image%2020250330212037.png)
+![](Pasted%20image%2020250330212037.png)
 
 `SKY-CCXL-4067`
 
@@ -80,6 +80,6 @@ What is flag #5?
 - Go to the commit of removing flag 4
 - Hit the three dots to toggle commit description
 
-![](attachments/Pasted%20image%2020250330212253.png)
+![](Pasted%20image%2020250330212253.png)
 
 `SKY-DKIT-9801`

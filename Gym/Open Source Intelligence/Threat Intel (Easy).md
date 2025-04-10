@@ -11,7 +11,7 @@ Q2 - 10 points
 
 What version of VSFTPD contained the smiley face backdoor?
 
-![](attachments/Pasted%20image%2020250330100435.png)
+![](Pasted%20image%2020250330100435.png)
 
 `2.3.4`
 

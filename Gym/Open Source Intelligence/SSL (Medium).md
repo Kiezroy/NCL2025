@@ -10,7 +10,7 @@ Who is the issuer for Cyber Skyline's SSL certificate?
 
 - Look at the certificate in the web browser
 
-![](attachments/Pasted%20image%2020250408183315.png)
+![](Pasted%20image%2020250408183315.png)
 
 `Sectigo RSA Domain Validation Secure Server CA`
 
@@ -32,6 +32,6 @@ How many certificates are in the certificate chain?
 
 - Look at the certificate Hierarchy
 
-![](attachments/Pasted%20image%2020250408184246.png)
+![](Pasted%20image%2020250408184246.png)
 
 `3`

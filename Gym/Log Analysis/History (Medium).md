@@ -6,7 +6,7 @@ Analyze a Firefox sqlite history database and answer questions about what happen
 - Open sqlite file in sqlite browser on kali VM
 - Open Database > browser.sqlite
 
-![](attachments/Pasted%20image%2020250409210742.png)
+![](Pasted%20image%2020250409210742.png)
 
 Q1 - 10 points
 
@@ -22,7 +22,7 @@ Q2 - 10 points
 
 What was the current price of bitcoin when the user was browsing?
 
-![](attachments/Pasted%20image%2020250409211128.png)
+![](Pasted%20image%2020250409211128.png)
 
 `239.5`
 
@@ -40,7 +40,7 @@ Q4 - 15 points
 
 What is the email that was used to log into the exchange?
 
-![](attachments/Pasted%20image%2020250409211405.png)
+![](Pasted%20image%2020250409211405.png)
 
 
 `b1gbird@gmail.com`
@@ -62,7 +62,7 @@ What was the total BTC of all the inputs of the Bitcoin transaction?
 
 - Add the total of the 2 inputs
 
-![](attachments/Pasted%20image%2020250409212618.png)
+![](Pasted%20image%2020250409212618.png)
 
 `.22616302`
 

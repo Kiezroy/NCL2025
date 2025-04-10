@@ -21,7 +21,7 @@ What is the error correction level? (10 pts)
 Source: https://tritonstore.com.au/common-qr-code-mistakes/
 
 Source: https://scanova.io/blog/qr-code-error-correction/
-![](error-correction-level-1024x512.webp)
+![](attachments/error-correction-level-1024x512.webp)
 
 `Level H`
 

@@ -8,7 +8,7 @@ Q1 - 20 points
 
 What Linux tool was used to execute a file download?
 
-![](attachments/Pasted%20image%2020250330191320.png)
+![](Pasted%20image%2020250330191320.png)
 
 `wget`
 
@@ -26,7 +26,7 @@ Q3 - 20 points
 
 What IP address initiated request?
 
-![](attachments/Pasted%20image%2020250330192225.png)
+![](Pasted%20image%2020250330192225.png)
 
 `192.168.1.140`
 
@@ -44,7 +44,7 @@ What is the md5sum of the file downloaded?
 
 - Open in wireshark
 - File > Export As > HTTP
-- ![](attachments/Pasted%20image%2020250330201909.png)
+- ![](Pasted%20image%2020250330201909.png)
 - Calculate the md5sum
 
 ```

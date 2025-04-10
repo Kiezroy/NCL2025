@@ -3,7 +3,7 @@ Our analysts have obtained an encrypted message. We know that the key, "qizkwcgq
 - Use online cipher identifier with the key "qizkwcgqbs"
 - Discover this is a Vigenère Automatic Solver cipher
 
-![](attachments/Pasted%20image%2020250408185233.png)
+![](Pasted%20image%2020250408185233.png)
 
 
 | User                                                                                           | Password Ciphertext                                            | Answer          |

@@ -40,7 +40,7 @@ Archive:  SuperAwesomeDoc.zip
 
 - Explore the contents and find the media folder with the flag
 
-![](attachments/Pasted%20image%2020250409194355.png)
+![](Pasted%20image%2020250409194355.png)
 
 `image0.png`
 

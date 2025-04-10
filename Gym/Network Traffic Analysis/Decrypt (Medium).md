@@ -15,7 +15,7 @@ What Cipher Suite was chosen by the secure socket server?
 
 - Packet 6 > Transport Security Layer > Handshake Protocol: Server Hello > Cipher Suite
 
-![](attachments/Pasted%20image%2020250409223740.png)
+![](Pasted%20image%2020250409223740.png)
 
 `TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256`
 
@@ -35,6 +35,6 @@ What is the flag transferred over HTTPS?
 
 - Right click packet > Follow TLS Stream
 
-![](attachments/Pasted%20image%2020250409224214.png)
+![](Pasted%20image%2020250409224214.png)
 
 `SKY-LADN-1435`

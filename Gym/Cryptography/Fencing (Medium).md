@@ -4,7 +4,7 @@ Our analysts have obtained encrypted messages. We saw hand-written notes that in
 - Use a cipher identifier and test with the keys "3" and "5"
 - Discover this is Railfence encryption
 
-![](attachments/Pasted%20image%2020250408184827.png)
+![](Pasted%20image%2020250408184827.png)
 
 ![](attachments/Pasted%20image%2020250408185035.png)
 
