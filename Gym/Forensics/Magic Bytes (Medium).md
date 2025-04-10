@@ -44,5 +44,5 @@ What is the flag? (75 pts)
 
 - Since JPG was 12 bytes, fill the extra 4 bytes with bytes from any PNG image
 
-
+![](attachments/Pasted%20image%2020250409192835.png)
 
