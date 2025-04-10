@@ -53,3 +53,5 @@ root@DESKTOP:~# md5sum logo.png
 ```
 
 `966007c476e0c200fba8b28b250a6379`
+
+![[Pasted image 20250410123521.png]]
