@@ -1,6 +1,11 @@
 
 Analyze a Firefox sqlite history database and answer questions about what happened. It you are not familiar with SQL you may want to learn more about SQL here: https://www.tutorialrepublic.com/sql-tutorial/
 
+[browser.sqlite](https://cyberskyline.com/artifact/65e54bcb52369daf3dc4725b/677847d9b4401661d5860dea/65b015dbad4ea5fef1fceaa6/65b015dfad4ea5fef1fcebfc/65b015dfad4ea5fef1fcebfe/download?t=3)
+
+- Open sqlite file in sqlite browser on kali VM
+- 
+
 Q1 - 10 points
 
 What did the user search for on craigslist?
