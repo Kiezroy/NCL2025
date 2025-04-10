@@ -23,7 +23,9 @@ Q2 - 25 points
 
 What is the domain covered by the SSL key?
 
+- 
 
+![](attachments/Pasted%20image%2020250409223930.png)
 
 Q3 - 50 points
 
