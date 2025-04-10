@@ -48,3 +48,7 @@ What is the flag? (75 pts)
 
 - Open the flag.jpeg file now and discover the flag
 
+![](attachments/Pasted%20image%2020250409193037.png)
+
+
+`SKY-DSFG-5792`
