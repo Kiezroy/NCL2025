@@ -33,3 +33,8 @@ Q3 - 50 points
 
 What is the flag transferred over HTTPS?
 
+- Right click packet > Follow TLS Stream
+
+![](attachments/Pasted%20image%2020250409224214.png)
+
+`SKY-LADN-1435`
