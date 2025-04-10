@@ -51,8 +51,21 @@ Q5 - 10 points
 
 What version of the Googlebot visited the website?
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep -i "googlebot"
+66.249.67.130 - - [01/Oct/2015:03:08:10 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.79.243 - - [01/Oct/2015:08:56:45 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.67.148 - - [01/Oct/2015:15:22:32 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.67.16 - - [01/Oct/2015:22:01:15 -0400] "GET /robots.txt HTTP/1.1" 301 178 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.67.130 - - [01/Oct/2015:22:01:16 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.67.148 - - [02/Oct/2015:02:46:00 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.249 - - [02/Oct/2015:11:13:06 -0400] "GET /robots.txt HTTP/1.1" 301 178 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.64.3 - - [02/Oct/2015:11:13:06 -0400] "GET /robots.txt HTTP/1.1" 502 166 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 
+```
 
+`2.1`
 
 Q6 - 10 points
 
