@@ -23,10 +23,13 @@ Q2 - 25 points
 
 What is the domain covered by the SSL key?
 
-- Packet 6 > TLSv1.2 Record Layer: Handshake
+- Packet 6 > TLSv1.2 Record Layer: Handshake Protocol: Certificate > Certificates > Certificate > subject > rdnSequence
 
 ![](attachments/Pasted%20image%2020250409223930.png)
+
+`tomsvacations.com`
 
 Q3 - 50 points
 
 What is the flag transferred over HTTPS?
+
