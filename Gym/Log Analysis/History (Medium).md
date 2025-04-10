@@ -40,8 +40,10 @@ Q4 - 15 points
 
 What is the email that was used to log into the exchange?
 
+![](attachments/Pasted%20image%2020250409211405.png)
 
 
+`b1gbird@gmail.com`
 
 Q5 - 15 points
 
