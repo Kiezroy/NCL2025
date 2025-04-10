@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c0b4551002ee294",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Gym/Network Traffic Analysis/attachments/Pasted image 20250330184030.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250330184030"
-            }
-          },
-          {
             "id": "2eefb396fdf305e6",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "Packet Dissection (Medium)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
