@@ -60,6 +60,8 @@ Q6 - 20 points
 
 What was the total BTC of all the inputs of the Bitcoin transaction?
 
+![](attachments/Pasted%20image%2020250409212618.png)
+
 
 
 
