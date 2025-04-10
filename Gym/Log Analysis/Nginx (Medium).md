@@ -33,11 +33,13 @@ Q3 - 10 points
 
 How many requests yielded a 400 status?
 
-``
+`38`
 
 Q4 - 10 points
 
 What IP address rang at the doorbell?
+
+
 
 Q5 - 10 points
 
