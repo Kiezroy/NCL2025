@@ -40,5 +40,9 @@ What is the flag? (75 pts)
 - Use `hexedit` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - Fix the magic bytes to match PNG
 
+![](attachments/Pasted%20image%2020250409192731.png)
+
+- Since JPG was 12 bytes, fill the extra 4 bytes with bytes from any PNG image
+
 
 
