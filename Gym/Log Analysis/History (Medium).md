@@ -49,8 +49,12 @@ Q5 - 15 points
 
 What was the ID of the Bitcoin transaction that the user looked at?
 
-- Listing 70 has a link to blockchain.info
+- Listing 70 has a link to blockchain.info: http://blockchain.info/tx/5274cfba585a4b5681527a37f95c76340428916bb7480cef6c545f0a28dcd2d7
+- Look for the ID
 
+![](attachments/Pasted%20image%2020250409211726.png)
+
+`5274cfba585a4b5681527a37f95c76340428916bb7480cef6c545f0a28dcd2d7`
 
 Q6 - 20 points
 
