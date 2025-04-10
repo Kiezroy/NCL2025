@@ -13,7 +13,8 @@ Dissect an IP packet header to understand how the protocol works.
 Q1 - 20 points  
 What is the header checksum in hexadecimal representation?
 
-test
+
+
 
 Q2 - 20 points  
 What is the TTL of the packet?
