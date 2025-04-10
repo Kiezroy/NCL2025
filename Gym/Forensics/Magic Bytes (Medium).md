@@ -37,5 +37,8 @@ Warning                         : JPEG format error
 
 What is the flag? (75 pts)
 
-- Use `xxd` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
+- Use `hexedit` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
+- Fix the magic bytes to match PNG
+
+
 
