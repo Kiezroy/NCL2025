@@ -6,7 +6,7 @@ Dissect an IP packet header to understand how the protocol works.
 
 <img src="attachments/Pasted%20image%2020250409224330.png" width="1200">
 
-
+![[../../attachments/Pasted image 20250410115218.png]]
 
 
 
