@@ -12,15 +12,27 @@ Q1 - 10 points
 
 What did the user search for on craigslist?
 
-- Open SQLite browser > Open Database > browser.sqlite
+- Browse Data > Listing 23
+
+![](attachments/Pasted%20image%2020250409211104.png)
+
+`bitcoin`
 
 Q2 - 10 points
 
 What was the current price of bitcoin when the user was browsing?
 
+![](attachments/Pasted%20image%2020250409211128.png)
+
+`239.5`
+
+
 Q3 - 10 points
 
 What Bitcoin exchange did the user log in to?
+
+
+
 
 Q4 - 15 points
 
