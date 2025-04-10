@@ -9,15 +9,15 @@ NTQ2ODY5NzMyMDY5NzMyMDc0Njg2NTIwNzA2NTcyNjY2NTYzNzQyMDc0Njk2ZDY1MjA3NDZmMjA3MDYx
 
 - Use the cipher identifier to analyze the code and see that this is base64 encoded
 
-![image](attachments/Pasted-image-20250403212302.png)
+![](attachments/Pasted%20image%2020250403212302.png)
 
-![image](attachments/Pasted-image-20250403212357.png)
+![](attachments/Pasted%20image%2020250403212357.png)
 
 - Analyze it again and decode it from Hex
 
-![image](attachments/Pasted-image-20250403212409.png)
+![](attachments/Pasted%20image%2020250403212409.png)
 
-![image](attachments/Pasted-image-20250403212424.png)
+![](attachments/Pasted%20image%2020250403212424.png)
 
 `This is the perfect time to panic`
 

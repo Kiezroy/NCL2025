@@ -40,7 +40,7 @@ Archive:  SuperAwesomeDoc.zip
 
 - Explore the contents and find the media folder with the flag
 
-![image](attachments/Pasted-image-20250409194355.png)
+![](attachments/Pasted%20image%2020250409194355.png)
 
 `image0.png`
 
@@ -48,6 +48,6 @@ Q2 - 80 points
 
 What is the flag?
 
-![image](attachments/Pasted-image-20250409194422.png)
+![](attachments/Pasted%20image%2020250409194422.png)
 
 `SKY-RATL-8439`

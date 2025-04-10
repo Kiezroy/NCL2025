@@ -6,7 +6,7 @@ Use online cipher identifier: https://www.dcode.fr/cipher-identifier
 
 - Discover it is a ROT-13 cipher
 - Decode the ciphertext
-- ![image](attachments/Pasted-image-20250330110921.png)
+- ![](attachments/Pasted%20image%2020250330110921.png)
 
 | User                                                                                               | Password Ciphertext | Answer       |
 | -------------------------------------------------------------------------------------------------- | ------------------- | ------------ |

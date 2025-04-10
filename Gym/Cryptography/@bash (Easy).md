@@ -6,7 +6,7 @@ Our analysts have obtained password dumps storing hacker passwords. See if you c
 - Discover it is encrypted with Atbash cipher
 - Decrypt the ciphertext
 
-![image](attachments/Pasted-image-20250330111223.png)
+![](attachments/Pasted%20image%2020250330111223.png)
 
 | User                                                                                               | Password Ciphertext | Answer              |
 | -------------------------------------------------------------------------------------------------- | ------------------- | ------------------- |

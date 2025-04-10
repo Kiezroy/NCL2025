@@ -8,7 +8,7 @@ What is the name of the program that exported this PDF file?
 
 - Use exiftool
 
-	![image](attachments/Pasted-image-20250330155544.png)
+	![](attachments/Pasted%20image%2020250330155544.png)
 
 `Adobe Photoshop`
 
@@ -26,7 +26,7 @@ What software was used to redact the file and insert a watermark?
 
 - Use online metadata viewer
 
-	![image](attachments/Pasted-image-20250330160255.png)
+	![](attachments/Pasted%20image%2020250330160255.png)
 
 `PDFTron`
 
@@ -35,6 +35,6 @@ Q4 - 50 points
 What is the flag?
 
 - Look at the TextLayer area
-	![image](attachments/Pasted-image-20250330160334.png)
+	![](attachments/Pasted%20image%2020250330160334.png)
 
 `SKY-PDRD-2390`

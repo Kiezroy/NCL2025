@@ -8,7 +8,7 @@ Q1 - 20 points
 
 What Linux tool was used to execute a file download?
 
-![image](attachments/Pasted-image-20250330191320.png)
+![](attachments/Pasted%20image%2020250330191320.png)
 
 `wget`
 
@@ -18,7 +18,7 @@ What is the name of the web server software that handled the request?
 
 - Apply the http.response filter
 
-	![image](attachments/Pasted-image-20250330192144.png)
+	![](attachments/Pasted%20image%2020250330192144.png)
 
 `nginx`
 
@@ -26,7 +26,7 @@ Q3 - 20 points
 
 What IP address initiated request?
 
-![image](attachments/Pasted-image-20250330192225.png)
+![](attachments/Pasted%20image%2020250330192225.png)
 
 `192.168.1.140`
 
@@ -34,7 +34,7 @@ Q4 - 20 points
 
 What is the IP address of the server?
 
-![image](attachments/Pasted-image-20250330201311.png)
+![](attachments/Pasted%20image%2020250330201311.png)
 
 `174.143.213.184`
 
@@ -44,7 +44,7 @@ What is the md5sum of the file downloaded?
 
 - Open in wireshark
 - File > Export As > HTTP
-- ![image](attachments/Pasted-image-20250330201909.png)
+- ![](attachments/Pasted%20image%2020250330201909.png)
 - Calculate the md5sum
 
 ```

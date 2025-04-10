@@ -8,7 +8,7 @@ Q1 - 10 points
 
 What was the first username:password combination attempt made to log in to the server? (e.g. user:password)
 
-![image](attachments/Pasted-image-20250330184407.png)
+![](attachments/Pasted%20image%2020250330184407.png)
 
 `user1:cyberskyline`
 
@@ -16,7 +16,7 @@ Q2 - 10 points
 
 What software is the FTP server running? (Include name and version)
 
-![image](attachments/Pasted-image-20250330185538.png)
+![](attachments/Pasted%20image%2020250330185538.png)
 
 `FileZilla Server 0.9.53`
 
@@ -24,7 +24,7 @@ Q3 - 10 points
 
 What is the first username:password combination that allows for successful authentication? (e.g. user:password)
 
-![image](attachments/Pasted-image-20250330185608.png)
+![](attachments/Pasted%20image%2020250330185608.png)
 
 `user1:metropolis`
 
@@ -32,7 +32,7 @@ Q4 - 10 points
 
 What is the first command the user executes on the ftp server?
 
-![image](attachments/Pasted-image-20250330185626.png)
+![](attachments/Pasted%20image%2020250330185626.png)
 
 `LIST`
 
@@ -40,7 +40,7 @@ Q5 - 15 points
 
 What file is deleted from the ftp server?
 
-![image](attachments/Pasted-image-20250330184338.png)
+![](attachments/Pasted%20image%2020250330184338.png)
 
 `bank.cap`
 
@@ -48,7 +48,7 @@ Q6 - 15 points
 
 What file is uploaded to the ftp server?
 
-![image](attachments/Pasted-image-20250330185651.png)
+![](attachments/Pasted%20image%2020250330185651.png)
 
 `compcodes.zip`
 
@@ -58,7 +58,7 @@ What is the filesize (in bytes) of the uploaded file?
 
 - Add all the bytes which refer to compcodes.zip
 
-![image](attachments/Pasted-image-20250330185907.png)
+![](attachments/Pasted%20image%2020250330185907.png)
 
 `28183`
 
@@ -66,6 +66,6 @@ Q8 - 15 points
 
 What file does the anonymous user download?
 
-![image](attachments/Pasted-image-20250330190001.png)
+![](attachments/Pasted%20image%2020250330190001.png)
 
 `compcodes.zip`

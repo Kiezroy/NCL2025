@@ -35,6 +35,6 @@ Session completed.
 
 What is the flag in the PDF? (25 pts)
 
-![image](attachments/Pasted-image-20250408205127.png)
+![](attachments/Pasted%20image%2020250408205127.png)
 
 `SKY-KANU-5902`

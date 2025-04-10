@@ -7,7 +7,7 @@ Q1 - 5 points
 
 What IP address did "ftpuser" first log in from?
 
-![image](attachments/Pasted-image-20250330172205.png)
+![](attachments/Pasted%20image%2020250330172205.png)
 
 `10.0.0.123`
 
@@ -15,7 +15,7 @@ Q2 - 5 points
 
 What is the first directory that ftpuser created?
 
-![image](attachments/Pasted-image-20250330172234.png)
+![](attachments/Pasted%20image%2020250330172234.png)
 
 `TreeSizeFree`
 
@@ -23,7 +23,7 @@ Q3 - 5 points
 
 What is the last directory that ftpuser created?
 
-![image](attachments/Pasted-image-20250330172319.png)
+![](attachments/Pasted%20image%2020250330172319.png)
 
 `110D300S`
 
@@ -35,7 +35,7 @@ What file extension was the most used by ftpuser?
 cat vsftpd.log | grep ftpuser | grep 'OK UPLOAD' | awk -F ',' '{print  $2 }' | cut -d '"' -f 2 | awk -F "." '{print $NF }' | sort | uniq -c
 ````
 
-![image](attachments/Pasted-image-20250330172601.png)
+![](attachments/Pasted%20image%2020250330172601.png)
 
 `JPG`
 

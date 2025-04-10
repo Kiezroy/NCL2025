@@ -15,7 +15,7 @@ We have been getting chatter from a group of malicious hackers setting up a meet
 
 What is the name of the city where the meeting is planned? (20 pts)
 
-![image](attachments/Pasted-image-20250406095309.png)
+![](attachments/Pasted%20image%2020250406095309.png)
 
 `Amsterdam`
 
@@ -23,7 +23,7 @@ What is the name of the city where the meeting is planned? (20 pts)
 
 What is the name of the building where the meeting is planned? (30 pts)
 
-![image](attachments/Pasted-image-20250406095346.png)
+![](attachments/Pasted%20image%2020250406095346.png)
 
 `Het Scheepvaartmuseum`
 
