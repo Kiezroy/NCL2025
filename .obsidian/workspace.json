@@ -35,8 +35,7 @@
               "title": "Python 2 (Easy)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
+                "file": "Gym/Enumeration and Exploitation/Python 3 (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python 2 (Easy)"
+              "title": "Backlinks for Python 3 (Medium)"
             }
           },
           {
@@ -195,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b27b348bff9a785",
+  "active": "829da97417500391",
   "lastOpenFiles": [
-    "Gym/Enumeration and Exploitation/Python 3 (Medium).md",
     "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
+    "Gym/Enumeration and Exploitation/Python 3 (Medium).md",
     "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
     "Practice Game/Web Application Exploitation/Wordly (Easy).md",
     "Practice Game/Web Application Exploitation/Pasta (Medium).md",
