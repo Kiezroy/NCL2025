@@ -95,6 +95,19 @@ Q7 - 10 points
 
 What was the most popular version of Firefox used for browsing the website?
 
+"Search the log for all lines that contain “Firefox” and the following characters which make up the version number, sort those values, and then get a unique count."
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | egrep -o "Firefox/.*" | sort | uniq -c
+
+      2 Firefox/30.0"
+      9 Firefox/31.0"
+      4 Firefox/3.6.28 (.NET CLR 3.5.30729)"
+      1 Firefox/40.0"
+
+```
+
 Q8 - 10 points
 
 What is the most common HTTP method used?
