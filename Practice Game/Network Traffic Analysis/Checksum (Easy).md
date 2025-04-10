@@ -9,7 +9,7 @@ Q1 - 10 points
 
 What was the full domain name queried in the DNS request?
 
-![](Pasted%20image%2020250403111735.png)
+![image](attachments/Pasted-image-20250403111735.png)
 
 `use1-api.tplinkra.com`
 
@@ -19,11 +19,11 @@ What frame number contains an invalid IP checksum?
 
 - Edit > Preferences > Protocols > IPv4 > Validate IPv4 checksum if possible
 
-	![](Pasted%20image%2020250403112847.png)
+	![image](attachments/Pasted-image-20250403112847.png)
 
 -  Re-inspect the packets and find the one with a bad IP checksum
 
-![](Pasted%20image%2020250403112924.png)
+![image](attachments/Pasted-image-20250403112924.png)
 
 `64`
 
@@ -33,7 +33,7 @@ What frame number contains an invalid TCP checksum?
 
 - Open in wireshark and inspect packets
 
-![](Pasted%20image%2020250403112629.png)
+![image](attachments/Pasted-image-20250403112629.png)
 
 `130`
 
@@ -43,11 +43,11 @@ What frame number contains an invalid UDP checksum?
 
 - Follow same process as above to enable "Validate UDP checksum if possible"
 
-	![](Pasted%20image%2020250403113020.png)
+	![image](attachments/Pasted-image-20250403113020.png)
 
 - Search through the packets
 
-![](Pasted%20image%2020250403113048.png)
+![image](attachments/Pasted-image-20250403113048.png)
 
 `53`
 
@@ -55,6 +55,6 @@ Q5 - 15 points
 
 What is the name of the company that made the client device?
 
-![](Pasted%20image%2020250403113157.png)
+![image](attachments/Pasted-image-20250403113157.png)
 
 `TpLinkTechnologies`

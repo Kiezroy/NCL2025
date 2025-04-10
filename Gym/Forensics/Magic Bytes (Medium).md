@@ -33,7 +33,7 @@ Warning                         : JPEG format error
 - Discover important words like "JFIF", "IHDR", "IDAT", etc...
 - Discover IHDR and IDAT is PNG format
 
-![](Pasted%20image%2020250409192230.png)
+![image](attachments/Pasted-image-20250409192230.png)
 
 `PNG`
 
@@ -42,15 +42,15 @@ What is the flag? (75 pts)
 - Use `hexedit` tool to view the hex format and look at the [magic bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - Fix the magic bytes to match PNG
 
-![](Pasted%20image%2020250409192731.png)
+![image](attachments/Pasted-image-20250409192731.png)
 
 - Since JPG was 12 bytes, fill the extra 4 bytes with bytes from any PNG image
 
-![](Pasted%20image%2020250409192835.png)
+![image](attachments/Pasted-image-20250409192835.png)
 
 - Open the flag.jpeg file now and discover the flag
 
-![](Pasted%20image%2020250409193037.png)
+![image](attachments/Pasted-image-20250409193037.png)
 
 
 `SKY-DSFG-5792`

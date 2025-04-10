@@ -10,7 +10,7 @@ Who is the issuer for Cyber Skyline's SSL certificate?
 
 - Look at the certificate in the web browser
 
-![](Pasted%20image%2020250408183315.png)
+![image](attachments/Pasted-image-20250408183315.png)
 
 `Sectigo RSA Domain Validation Secure Server CA`
 
@@ -21,7 +21,7 @@ How many bits long is the SSL key?
 
 - Details > Subject Public Key Info > Subject's Public Key
 
-![](Pasted%20image%2020250408183628.png)
+![image](attachments/Pasted-image-20250408183628.png)
 
 `2048`
 
@@ -32,6 +32,6 @@ How many certificates are in the certificate chain?
 
 - Look at the certificate Hierarchy
 
-![](Pasted%20image%2020250408184246.png)
+![image](attachments/Pasted-image-20250408184246.png)
 
 `3`

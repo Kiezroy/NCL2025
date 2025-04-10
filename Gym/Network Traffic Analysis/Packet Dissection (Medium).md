@@ -1,10 +1,10 @@
 
 Dissect an IP packet header to understand how the protocol works.
 
-![](Pasted%20image%2020250409224312.png)
+![image](attachments/Pasted-image-20250409224312.png)
 
 
-![](Pasted%20image%2020250409224330.png)
+![image](attachments/Pasted-image-20250409224330.png)
 
 
 

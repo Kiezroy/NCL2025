@@ -10,7 +10,7 @@ Q1 - 10 points
 
 - This is Hex
 
-![](Pasted%20image%2020250401092625.png)
+![image](attachments/Pasted-image-20250401092625.png)
 
 `portugal99`
 
@@ -21,7 +21,7 @@ Q2 - 10 points
 
 - This is binary
 
-![](Pasted%20image%2020250401092733.png)
+![image](attachments/Pasted-image-20250401092733.png)
 
 
 `tesla965`
@@ -33,6 +33,6 @@ Q3 - 10 points
 
 - This is Octal
 
-![](Pasted%20image%2020250401092822.png)
+![image](attachments/Pasted-image-20250401092822.png)
 
 `nikola2836`

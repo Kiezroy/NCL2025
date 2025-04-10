@@ -15,7 +15,7 @@ What Cipher Suite was chosen by the secure socket server?
 
 - Packet 6 > Transport Security Layer > Handshake Protocol: Server Hello > Cipher Suite
 
-![](Pasted%20image%2020250409223740.png)
+![image](attachments/Pasted-image-20250409223740.png)
 
 `TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256`
 
@@ -25,7 +25,7 @@ What is the domain covered by the SSL key?
 
 - Packet 6 > TLSv1.2 Record Layer: Handshake Protocol: Certificate > Certificates > Certificate > subject > rdnSequence
 
-![](Pasted%20image%2020250409223930.png)
+![image](attachments/Pasted-image-20250409223930.png)
 
 `tomsvacations.com`
 
@@ -35,6 +35,6 @@ What is the flag transferred over HTTPS?
 
 - Right click packet > Follow TLS Stream
 
-![](Pasted%20image%2020250409224214.png)
+![image](attachments/Pasted-image-20250409224214.png)
 
 `SKY-LADN-1435`
