@@ -46,3 +46,5 @@ What is the flag? (75 pts)
 
 ![](attachments/Pasted%20image%2020250409192835.png)
 
+- Open the flag.jpeg file now and discover the flag
+
