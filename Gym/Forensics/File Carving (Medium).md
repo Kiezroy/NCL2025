@@ -44,7 +44,7 @@ Q2 - 25 points
 
 How many files can be extracted from the binary blob?
 
-
+- Use [binwalk](https://github.com/ReFirmLabs/binwalk)
 
 
 
