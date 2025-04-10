@@ -66,4 +66,22 @@ Q3 - 50 points
 
 What is the hidden flag in the file?
 
-- 
+- Extract embedded files with binwalk
+- The command will include PNG files in the extraction and give them the png extension
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ binwalk --extract --dd="png:png" green_file
+
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 63 x 36, 8-bit/color RGBA, non-interlaced
+3243          0xCAB           gzip compressed data, from Unix, last modified: 2017-02-14 05:32:27
+3605          0xE15           PNG image, 24 x 24, 8-bit/color RGBA, non-interlaced
+3818          0xEEA           PNG image, 24 x 24, 8-bit/color RGBA, non-interlaced
+4040          0xFC8           PNG image, 24 x 24, 8-bit/color RGBA, non-interlaced
+4264          0x10A8          PNG image, 24 x 24, 8-bit/color RGBA, non-interlaced
+
+```
+
