@@ -6,6 +6,9 @@ The S in HTTPS stands for secure and it uses the TLS/SSL protocol to achieve its
 [Decrypt.pcapng](https://cyberskyline.com/artifact/65e54bcb52369daf3dc4725b/677847d9b4401661d5860dea/65b015f0ad4ea5fef1fced67/65b02dfead4ea5fef1fd1ce9/65b02dfead4ea5fef1fd1ced/download?t=3)
 
 
+- Start wireshark
+- Navigate to Edit > Preferences > TLS
+
 Q1 - 25 points
 
 What Cipher Suite was chosen by the secure socket server?
