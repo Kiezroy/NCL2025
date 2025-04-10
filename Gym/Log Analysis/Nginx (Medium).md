@@ -145,3 +145,4 @@ Q10 - 10 points
 
 How many requests were for \x04\x01\x00P\xC6\xCE\x0Eu0\x00?
 
+`6`
