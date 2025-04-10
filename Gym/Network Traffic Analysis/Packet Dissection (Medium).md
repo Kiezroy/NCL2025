@@ -16,7 +16,7 @@ What is the header checksum in hexadecimal representation?
 - Check where the Header Checksum is located
 - Its at columns 16-31 at row 3 (64 bits)
 
-![[../../attachments/Pasted image 20250410124638.png|Pasted image 20250410124638.png]]
+![](../../attachments/Pasted%20image%2020250410125822.png)
 
 ![attachments/Pasted image 20250410121600.png](../../attachments/Pasted%20image%2020250410121600.png)
 
@@ -39,15 +39,15 @@ What is the source IP address?
 
 ![Pasted image 20250410122645.png](../../attachments/Pasted%20image%2020250410122645.png)
 
-![[../../attachments/Pasted image 20250410123943.png]]
+![](../../attachments/Pasted%20image%2020250410125806.png)
 
 `192.168.128.128`
 
 Q4 - 30 points  
 What is the destination IP address?
 
-![[../../attachments/Pasted image 20250410124810.png]]
+![](../../attachments/Pasted%20image%2020250410125754.png)
 
-![[../../attachments/Pasted image 20250410124845.png]]
+![](../../attachments/Pasted%20image%2020250410125742.png)
 
 `159.203.96.154`
