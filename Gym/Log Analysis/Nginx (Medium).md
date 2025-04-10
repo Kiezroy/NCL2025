@@ -71,6 +71,8 @@ Q6 - 10 points
 
 Which IP address attempted to exploit the shellshock vulnerability?
 
+- Research shellshock vulnerability and see it uses U
+
 Q7 - 10 points
 
 What was the most popular version of Firefox used for browsing the website?
