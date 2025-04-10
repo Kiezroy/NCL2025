@@ -60,12 +60,14 @@ Q6 - 20 points
 
 What was the total BTC of all the inputs of the Bitcoin transaction?
 
+- Add the total of the 2 inputs
+
 ![](attachments/Pasted%20image%2020250409212618.png)
 
-
-
+`.22616302`
 
 
 Q7 - 20 points
 
 Which bitcoin address received the majority of the Bitcoin in the transaction?
+
