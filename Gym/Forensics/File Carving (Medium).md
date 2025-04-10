@@ -85,3 +85,34 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 
 ```
 
+- Navigate to the directory and investigate the file
+
+```
+┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted]
+└─$ file CAB                                                                                                                           
+CAB: POSIX tar archive (GNU)
+```
+
+- Unpack with tar
+
+```
+┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted]
+└─$ tar -xvf CAB  
+flags/
+flags/flags.txt
+```
+
+```
+┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted]
+└─$ cd flags 
+
+┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted/flags]
+└─$ ls
+flags.txt
+
+┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted/flags]
+└─$ cat flags.txt 
+I love flags they are amazing. The American flag has so many stars and stripes. It's just such a beautiful design. And take a look at the Canadian flag with a maple leaf. What a classic. But my favorite flag of all is SKY-RWCI-4291. I'll never forget that flag for as long as I live. 
+
+```
+
