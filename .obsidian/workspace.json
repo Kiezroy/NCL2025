@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
+                "file": "Gym/Log Analysis/VSFTPD (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python 1 (Easy)"
+              "title": "VSFTPD (Easy)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
+                "file": "Gym/Log Analysis/VSFTPD (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python 1 (Easy)"
+              "title": "Backlinks for VSFTPD (Easy)"
             }
           },
           {
@@ -182,9 +182,24 @@
   },
   "active": "7359681824f23534",
   "lastOpenFiles": [
-    "Gym/Enumeration and Exploitation/Timebomb (Easy).md",
+    "Gym/Log Analysis/SSH (Easy).md",
+    "Gym/Log Analysis/Nginx (Medium).md",
+    "Gym/Log Analysis/Login (Easy).md",
+    "Gym/Log Analysis/History (Medium).md",
+    "Gym/Forensics/PDF (Easy).md",
+    "Gym/Forensics/Magic Bytes (Medium).md",
+    "Gym/Forensics/File Carving (Medium).md",
+    "Gym/Forensics/Docter (Medium).md",
+    "Gym/Cryptography/Strings (Easy).md",
+    "Gym/Cryptography/Shift (Easy).md",
+    "Gym/Cryptography/Number Bases (Easy).md",
+    "Gym/Cryptography/French (Medium).md",
+    "Gym/Cryptography/Fencing (Medium).md",
+    "Gym/Cryptography/Beep (Easy).md",
+    "Gym/Cryptography/@bash (Easy).md",
     "Gym/Enumeration and Exploitation/Bytes (Easy).md",
     "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
+    "Gym/Enumeration and Exploitation/Timebomb (Easy).md",
     "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
     "Gym/Network Traffic Analysis/Packet Dissection (Medium).md",
     "attachments/Pasted image 20250410125822.png",
@@ -204,26 +219,11 @@
     "Gym/Network Traffic Analysis/FTP Traffic (Easy).md",
     "README.md",
     "README.md",
-    "Practice Game/Forensics/Archived (Easy).md",
-    "Practice Game/Web Application Exploitation/Pasta (Medium).md",
-    "Practice Game/Web Application Exploitation/Wordly (Easy).md",
     "Practice Game/Web Application Exploitation/attachments",
-    "Practice Game/Password Cracking/Zip (Medium).md",
-    "Practice Game/Password Cracking/Hashing (Easy).md",
-    "Practice Game/Password Cracking/Cracking 2 (Easy).md",
-    "Practice Game/Password Cracking/Cracking 3 (Medium).md",
-    "Practice Game/Password Cracking/Cracking 1 (Easy).md",
     "Practice Game/Password Cracking/attachments",
     "Practice Game/Open Source Intelligence/Hacker Location (Medium)",
-    "Practice Game/Open Source Intelligence/Hacker Location (Medium).md",
-    "Practice Game/Open Source Intelligence/Covered QR (Medium).md",
-    "Practice Game/Open Source Intelligence/Breached Passwords (Easy).md",
     "Practice Game/Open Source Intelligence/attachments",
-    "Practice Game/Network Traffic Analysis/Checksum (Easy).md",
-    "Practice Game/Open Source Intelligence/APTS (Easy).md",
     "Practice Game/Network Traffic Analysis/attachments",
-    "Practice Game/Log Analysis/IIS (Easy).md",
-    "Practice Game/Enumeration and Exploitation/Dropper (Easy).md",
     "Practice Game/Cryptography/attachments",
     "Practice Game/Web Application Exploitation",
     "Practice Game/Password Cracking",
