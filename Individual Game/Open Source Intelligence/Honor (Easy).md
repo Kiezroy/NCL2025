@@ -24,3 +24,5 @@ What is the bit depth of the camera?
 Q3 - 10 points  
 What's the flag? 
 
+- Recognize that the "copyright_notice" is in hex
+- Use cy
