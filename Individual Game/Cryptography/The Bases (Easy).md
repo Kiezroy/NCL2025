@@ -1,6 +1,7 @@
 
 We have intercepted some passwords from a Liber8tion hacker. Luckily for us, they were stored insecurely and are only encoded with different number bases. See if you can decode them.
 
+- Use a tool like cyberchef to decode
 
 Q1 - 15 points  
 01000010 01000001 01000010 01011001 01100010 01101001 01110011 01101111 01101110 00100001 00110110 00110001 00110011 00110101
