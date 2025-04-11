@@ -25,4 +25,10 @@ Q3 - 10 points
 What's the flag? 
 
 - Recognize that the "copyright_notice" is in hex
-- Use cy
+- Use cyberchef to decode
+
+![](../../attachments/Pasted%20image%2020250411165314.png)
+
+![](../../attachments/Pasted%20image%2020250411165323.png)
+
+`SKY-LIMI-1337`
