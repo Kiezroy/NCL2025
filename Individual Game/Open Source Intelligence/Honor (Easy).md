@@ -5,17 +5,22 @@ We recently had a data breach, and the attacker uploaded some malicious scripts 
 
 ![](../../attachments/Pasted%20image%2020250411165020.png)
 
-- Use `e`
+- Use `exiftool` or online metadata viewer
 
 Q1 - 10 points  
 How many megapixels did the camera that took the picture have? 
+
+![](../../attachments/Pasted%20image%2020250411165107.png)
 
 `5.5`
 
 Q2 - 10 points  
 What is the bit depth of the camera?
 
+![](../../attachments/Pasted%20image%2020250411165120.png)
 
+`8`
 
 Q3 - 10 points  
 What's the flag? 
+
