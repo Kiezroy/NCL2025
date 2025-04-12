@@ -59,7 +59,10 @@ What is the flag found on one of the hosted services on target?
 <hr>
 </body>
 </html>
+
 ┌──(root㉿attacker)-[~]
 └─# curl http://target:80/flag.txt
-SKY-HTTP-4553┌──(root㉿attacker)-[~]
+SKY-HTTP-4553
 ```
+
+`SKY-HTTP-4553`
