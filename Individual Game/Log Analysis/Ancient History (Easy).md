@@ -93,3 +93,56 @@ How many total POST requests were made?
 Q7 - 15 points  
 What is the third most frequently accessed domain path in the log?
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | cut -d " " -f 7 | sort | uniq -c | sort -n
+      1 1840053
+      1 2217329
+      1 2457623
+      1 3880621
+      1 accounts.google.com:443
+      1 alb.reddit.com:443
+      1 analytics.twitter.com:443
+      1 bat.bing.com:443
+      1 capture.trackjs.com:443
+      1 cdn.quantummetric.com:443
+      1 dlt-beacon.dynatrace-managed.com:443
+      1 external-preview.redd.it:443
+      1 id.rlcdn.com:443
+      1 ingest.quantummetric.com:443
+      1 i.redd.it:443
+      1 personalization-api.delta.com:443
+      1 play.google.com:443
+      1 preview.redd.it:443
+      1 p.tvpixel.com:443
+      1 sp.analytics.yahoo.com:443
+      1 styles.redditmedia.com:443
+      1 t.co:443
+      1 w3-reporting.reddit.com:443
+      1 www.facebook.com:443
+      1 www.google.com:443
+      1 www.reddit.com:443
+      1 www.redditstatic.com:443
+      1 zn0djfqwpekjgb6nu-deltacx.siteintercept.qualtrics.com:443
+      2 fly.delta.com:443
+      2 meshtastic.org:443
+      2 signin.delta.com:443
+      2 siteintercept.qualtrics.com:443
+      2 v.redd.it:443
+      3 classify-client.services.mozilla.com:443
+      3 content-signature-2.cdn.mozilla.net:443
+      3 normandy.cdn.mozilla.net:443
+      9 TCP_MISS/200
+     20 www.delta.com:443
+     22 TCP_TUNNEL/200
+     25 firefox.settings.services.mozilla.com:443
+     27 CONNECT
+     42 0
+     89 push.services.mozilla.com:443
+     92 127.0.0.1
+
+```
+
+- Look for the third most frequent domain
+
+`firefox.settings.services.mozilla.com`
