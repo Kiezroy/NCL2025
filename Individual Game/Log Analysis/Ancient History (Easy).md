@@ -32,8 +32,11 @@ What is the domain of the third HTTP request in the log?
 Q2 - 15 points  
 At what timestamp did the server respond to the HTTP request for the site in Q1? (Use the same format from the log)
 
+Here is the format of the logs:
 
+`<timestamp> <duration> <client IP> <cache result>/<HTTP code> <bytes> <method> <URL> <RFC931> <hierarchy code>/<server IP> <MIME type>`
 
+`1743959680.158`
 
 Q3 - 15 points  
 What is the IP address of the server hosting `www.delta.com` in the first CONNECT request?
