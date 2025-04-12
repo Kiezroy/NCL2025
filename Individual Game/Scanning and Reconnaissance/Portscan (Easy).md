@@ -24,21 +24,20 @@ MAC Address: 02:42:0A:06:92:E4 (Unknown)
 Q1 - 25 points  
 What is the lowest port on the `target` machine?
 
-
-
+`17`
 
 Q2 - 25 points  
 What is the highest port on the `target` machine?
 
-
-
+`4000`
 
 Q3 - 25 points  
 What is the version of the service running on port 80?
 
-``
+`80/tcp   open  http            SimpleHTTPServer 0.6 (Python 3.11.2)`
 
 `0.6`
 
 Q4 - 25 points  
 What is the flag found on one of the hosted services on target?
+
