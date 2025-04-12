@@ -5,6 +5,8 @@ Our analysts have gone a little meme-crazy, no cap. Find the flags and don't get
 
 ![](../../attachments/Pasted%20image%2020250412090052.jpg)
 
+- Use `binwalk` to extract embedded / hidden 
+
 Q1 - 35 points  
 What is the flag found on an image?
 
