@@ -56,12 +56,20 @@ What is the IP address of the server hosting `www.delta.com` in the first CONNEC
 Q4 - 15 points  
 How many NONE_NONE/000 errors are present in the log?
 
-- Filter for the "NONE_NONE/000" 
+- Filter for the "NONE_NONE/000" and add wordcount
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep "NONE_NONE/000" | wc -l
+40
+```
+
+`40`
 
 Q5 - 15 points  
 How many successful connections were made to push.services.mozilla.com?
 
+- Successful response code is `200`
 
 
 
