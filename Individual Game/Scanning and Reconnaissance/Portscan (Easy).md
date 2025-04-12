@@ -3,6 +3,7 @@ We have identified what we believe to be one of Liber8tion's servers. We need yo
 
 The hostname of the server is `target`
 
+- Run a `nmap`
 
 Q1 - 25 points  
 What is the lowest port on the `target` machine?
