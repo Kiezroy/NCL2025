@@ -9,6 +9,15 @@ What is the domain of the third HTTP request in the log?
 - Filter the log for only "GET" HTTP requests
 - The "CONNECT" are not requests but are actually tunnel setups
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep "GET"
+1743959510.401    138 ::1 TCP_MISS/200 1582 GET http://example.com/ - HIER_DIRECT/96.7.128.198 text/html
+1743959680.158      0 127.0.0.1 TCP_MISS_ABORTED/000 0 GET http://httpforever.com/js/init.min.js - HIER_NONE/- -
+1743959680.192      0 127.0.0.1 TCP_MISS_ABORTED/000 0 GET http://httpforever.com/css/style.min.css - HIER_NONE/- -
+```
+
+`http://httpforever.com/js/init.min.js`
 
 Q2 - 15 points  
 At what timestamp did the server respond to the HTTP request for the site in Q1? (Use the same format from the log)
