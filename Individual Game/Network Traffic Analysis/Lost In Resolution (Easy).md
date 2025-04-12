@@ -19,12 +19,14 @@ What is the email provider they use?
 - Query wireshark to filter for the word mail
 - `frame contains "mail"`
 
-
+![](../../attachments/Pasted%20image%2020250412080121.png)
 
 `protonmail.com`
 
 Q3 - 20 points  
 In frame 10061, what is the second A record returned for the domain chatgpt.com?
+
+
 
 
 
