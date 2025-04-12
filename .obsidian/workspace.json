@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
+                "file": "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portscan (Easy)"
+              "title": "Liber8Dogs (Easy)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
+                "file": "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Portscan (Easy)"
+              "title": "Backlinks for Liber8Dogs (Easy)"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
-    "Individual Game/Forensics/Overused (Easy).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
+    "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
+    "Individual Game/Forensics/Overused (Easy).md",
     "attachments/Pasted image 20250412090905.png",
     "attachments/Pasted image 20250412090855.png",
     "attachments/Pasted image 20250412090716.png",
@@ -241,7 +242,6 @@
     "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
     "Practice Game/Web Application Exploitation/Wordly (Easy).md",
     "Practice Game/Web Application Exploitation/Pasta (Medium).md",
-    "Practice Game/Password Cracking/Zip (Medium).md",
-    "Practice Game/Password Cracking/Hashing (Easy).md"
+    "Practice Game/Password Cracking/Zip (Medium).md"
   ]
 }
