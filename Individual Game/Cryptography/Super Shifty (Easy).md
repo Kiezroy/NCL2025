@@ -13,7 +13,10 @@ Q1 - 15 points
 Q2 - 15 points  
 XziomvgKmjxznndib
 
+![](../../attachments/Pasted%20image%2020250411170356.png)
 
+`CentralProcessing`
 
 Q3 - 25 points  
 .. --.. - -... -..- .. --.. -.. ...- .--- .-. -.- -.-
+
