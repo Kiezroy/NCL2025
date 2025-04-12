@@ -1,7 +1,7 @@
 
 Generate hashes for various passwords.
 
-- Us
+- Used md5sum and sha256sum tools
 
 Q1 - 10 points  
 What is the MD5 hash of the password `white0733lotus`
