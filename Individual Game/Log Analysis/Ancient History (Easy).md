@@ -6,7 +6,8 @@ There's a reason almost all websites these days use HTTPS.
 Q1 - 10 points  
 What is the domain of the third HTTP request in the log?
 
-
+- Filter the log for only "GET" HTTP requests
+- The "CONNECT" are not re
 
 
 Q2 - 15 points  
