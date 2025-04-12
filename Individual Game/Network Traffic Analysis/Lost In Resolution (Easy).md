@@ -27,7 +27,9 @@ Q3 - 20 points
 In frame 10061, what is the second A record returned for the domain chatgpt.com?
 
 - Go to frame 10061
-- 
+- Answers > chatgpt 2nd A record > Address
+
+![](../../attachments/Pasted%20image%2020250412080458.png)
 
 `172.64.155.209`
 
