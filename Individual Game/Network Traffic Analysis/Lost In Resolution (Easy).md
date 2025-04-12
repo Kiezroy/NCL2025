@@ -36,7 +36,11 @@ In frame 10061, what is the second A record returned for the domain chatgpt.com?
 Q4 - 20 points  
 What is the transaction ID for the first query to pwn.college?
 
+- `frame contains "pwn"`
+- Look at the first standard query
+- DNS (query) 
 
+`0xaeee`
 
 Q5 - 20 points  
 What is the flag contained in the DNS A and AAAA record for the domain, flag.com.localdomain?
