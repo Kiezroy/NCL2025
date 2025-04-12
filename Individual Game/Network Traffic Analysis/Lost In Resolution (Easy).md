@@ -11,10 +11,12 @@ What is the transaction ID for the DNS query for frame 36?
 
 ![](../../attachments/Pasted%20image%2020250412075701.png)
 
-
+`0x75b8`
 
 Q2 - 10 points  
 What is the email provider they use?
+
+
 
 
 Q3 - 20 points  
