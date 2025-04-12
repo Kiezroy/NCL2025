@@ -71,7 +71,13 @@ How many successful connections were made to push.services.mozilla.com?
 
 - Successful response code is `200`
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep "push.services.mozilla.com" | grep "200" | wc -l
+134
+```
 
+`134`
 
 Q6 - 15 points  
 How many total POST requests were made?
