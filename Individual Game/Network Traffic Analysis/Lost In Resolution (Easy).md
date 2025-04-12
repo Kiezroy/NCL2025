@@ -38,7 +38,9 @@ What is the transaction ID for the first query to pwn.college?
 
 - `frame contains "pwn"`
 - Look at the first standard query
-- DNS (query) 
+- DNS (query) > Transaction ID
+
+![](../../attachments/Pasted%20image%2020250412081406.png)
 
 `0xaeee`
 
