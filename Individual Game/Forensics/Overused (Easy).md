@@ -43,3 +43,7 @@ What is the secret flag that one image hints about?
 Q3 - 35 points  
 What is the super secret flag encoded in base64?
 
+- It is the file `Congrats.txt`
+
+![](../../attachments/Pasted%20image%2020250412090855.png)
+
