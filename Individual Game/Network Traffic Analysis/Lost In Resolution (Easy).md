@@ -47,7 +47,11 @@ What is the transaction ID for the first query to pwn.college?
 Q5 - 20 points  
 What is the flag contained in the DNS A and AAAA record for the domain, flag.com.localdomain?
 
-- 
+- Edit > Find Packet > String > "flag.com.localdomain"
+
+![](../../attachments/Pasted%20image%2020250412081631.png)
+
+`SKY-DENS-5353`
 
 Q6 - 20 points  
 What is the average DNS payload size? (in bytes, rounded to 2 decimal points)
