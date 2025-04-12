@@ -47,3 +47,6 @@ What is the super secret flag encoded in base64?
 
 ![](../../attachments/Pasted%20image%2020250412090855.png)
 
+![](../../attachments/Pasted%20image%2020250412090905.png)
+
+`SKY-UATE-1057`
