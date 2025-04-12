@@ -5,13 +5,13 @@ The hostname of the server is `target`
 
 
 Q1 - 25 points  
-What is the lowest port on the target machine?
+What is the lowest port on the `target` machine?
 
 
 
 
 Q2 - 25 points  
-What is the highest port on the target machine?
+What is the highest port on the `target` machine?
 
 
 
