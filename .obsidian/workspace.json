@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Log Analysis/Ancient History (Easy).md",
+                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ancient History (Easy)"
+              "title": "Lost In Resolution (Easy)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Log Analysis/Ancient History (Easy).md",
+                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ancient History (Easy)"
+              "title": "Backlinks for Lost In Resolution (Easy)"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "dd6176d25beaff73",
   "lastOpenFiles": [
-    "Gym/Log Analysis/Login (Easy).md",
     "Individual Game/Log Analysis/Ancient History (Easy).md",
+    "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
+    "Gym/Log Analysis/Login (Easy).md",
     "Individual Game/Password Cracking/We Will Rockyou (Easy).md",
     "Individual Game/Password Cracking/Hash me outside! (Easy).md",
     "Individual Game/Cryptography/Pizza Time (Easy).md",
@@ -241,7 +242,6 @@
     "Practice Game/Open Source Intelligence/Covered QR (Medium).md",
     "Practice Game/Open Source Intelligence/Breached Passwords (Easy).md",
     "Practice Game/Open Source Intelligence/APTS (Easy).md",
-    "Practice Game/Network Traffic Analysis/Checksum (Easy).md",
-    "Practice Game/Log Analysis/IIS (Easy).md"
+    "Practice Game/Network Traffic Analysis/Checksum (Easy).md"
   ]
 }
