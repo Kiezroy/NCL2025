@@ -93,7 +93,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 CAB: POSIX tar archive (GNU)
 ```
 
-- Unpack with tar
+- Unpack with `tar`
 
 ```
 ┌──(kali㉿kali)-[~/Downloads/_green_file-0.extracted]

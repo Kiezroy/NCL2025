@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Forensics/PDF (Easy).md",
+                "file": "Gym/Forensics/Docter (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PDF (Easy)"
+              "title": "Docter (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gym/Forensics/PDF (Easy).md",
+                "file": "Gym/Forensics/Docter (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PDF (Easy)"
+              "title": "Backlinks for Docter (Medium)"
             }
           },
           {
@@ -197,6 +197,10 @@
   },
   "active": "dd6176d25beaff73",
   "lastOpenFiles": [
+    "Gym/Forensics/Magic Bytes (Medium).md",
+    "Gym/Forensics/File Carving (Medium).md",
+    "Gym/Forensics/Version Control (Easy).md",
+    "Gym/Forensics/PDF (Easy).md",
     "Individual Game/Forensics/Overused (Easy).md",
     "attachments/Pasted image 20250412090448.png",
     "attachments/Pasted image 20250412090052.jpg",
@@ -238,9 +242,6 @@
     "Practice Game/Password Cracking/Zip (Medium).md",
     "Practice Game/Password Cracking/Hashing (Easy).md",
     "Practice Game/Password Cracking/Cracking 3 (Medium).md",
-    "Practice Game/Password Cracking/Cracking 2 (Easy).md",
-    "Practice Game/Password Cracking/Cracking 1 (Easy).md",
-    "Practice Game/Open Source Intelligence/Hacker Location (Medium).md",
-    "Practice Game/Open Source Intelligence/Covered QR (Medium).md"
+    "Practice Game/Password Cracking/Cracking 2 (Easy).md"
   ]
 }
