@@ -16,8 +16,12 @@ What is the transaction ID for the DNS query for frame 36?
 Q2 - 10 points  
 What is the email provider they use?
 
+- Query wireshark to filter for the word mail
+- `frame contains "mail"`
 
 
+
+`protonmail.com`
 
 Q3 - 20 points  
 In frame 10061, what is the second A record returned for the domain chatgpt.com?
