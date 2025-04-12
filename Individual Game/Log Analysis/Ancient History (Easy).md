@@ -7,7 +7,7 @@ Q1 - 10 points
 What is the domain of the third HTTP request in the log?
 
 - Filter the log for only "GET" HTTP requests
-- The "CONNECT" are not re
+- The "CONNECT" are not requests but are actually tunnel setups
 
 
 Q2 - 15 points  
