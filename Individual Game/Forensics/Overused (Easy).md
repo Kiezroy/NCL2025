@@ -34,9 +34,12 @@ What is the flag found on an image?
 Q2 - 35 points  
 What is the secret flag that one image hints about?
 
+![](../../attachments/Pasted%20image%2020250412090716.png)
+
 ![](../../attachments/Pasted%20image%2020250412090448.png)
 
 `SKY-BUSN-4419`
 
 Q3 - 35 points  
 What is the super secret flag encoded in base64?
+
