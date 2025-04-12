@@ -26,9 +26,10 @@ What is the email provider they use?
 Q3 - 20 points  
 In frame 10061, what is the second A record returned for the domain chatgpt.com?
 
+- Go to frame 10061
+- 
 
-
-
+`172.64.155.209`
 
 Q4 - 20 points  
 What is the transaction ID for the first query to pwn.college?
