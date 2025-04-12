@@ -41,3 +41,25 @@ What is the version of the service running on port 80?
 Q4 - 25 points  
 What is the flag found on one of the hosted services on target?
 
+```
+┌──(root㉿attacker)-[~]
+└─# curl http://target:80
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Directory listing for /</title>
+</head>
+<body>
+<h1>Directory listing for /</h1>
+<hr>
+<ul>
+<li><a href="flag.txt">flag.txt</a></li>
+</ul>
+<hr>
+</body>
+</html>
+┌──(root㉿attacker)-[~]
+└─# curl http://target:80/flag.txt
+SKY-HTTP-4553┌──(root㉿attacker)-[~]
+```
