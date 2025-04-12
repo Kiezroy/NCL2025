@@ -82,7 +82,14 @@ How many successful connections were made to push.services.mozilla.com?
 Q6 - 15 points  
 How many total POST requests were made?
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat access.log | grep "POST" | wc -l                                  
+8
+```
 
+`8`
 
 Q7 - 15 points  
 What is the third most frequently accessed domain path in the log?
+
