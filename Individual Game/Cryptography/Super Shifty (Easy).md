@@ -24,3 +24,9 @@ Q3 - 25 points
 
 ![](../../attachments/Pasted%20image%2020250411170954.png)
 
+- The result is also Caesar shift encoded, so decode that
+
+![](../../attachments/Pasted%20image%2020250411171028.png)
+
+`RICKGRIMESATT`
+

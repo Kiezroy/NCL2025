@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Cryptography/Super Shifty (Easy).md",
+                "file": "Individual Game/Cryptography/Pizza Time (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super Shifty (Easy)"
+              "title": "Pizza Time (Easy)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Cryptography/Super Shifty (Easy).md",
+                "file": "Individual Game/Cryptography/Pizza Time (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Super Shifty (Easy)"
+              "title": "Backlinks for Pizza Time (Easy)"
             }
           },
           {
@@ -182,11 +182,13 @@
   },
   "active": "c07f2feb436d3b8c",
   "lastOpenFiles": [
+    "Individual Game/Cryptography/Super Shifty (Easy).md",
+    "Individual Game/Cryptography/Pizza Time (Easy).md",
+    "attachments/Pasted image 20250411171028.png",
     "attachments/Pasted image 20250411170954.png",
     "attachments/Pasted image 20250411170356.png",
     "attachments/Pasted image 20250411170328.png",
     "Individual Game/Cryptography/The Bases (Easy).md",
-    "Individual Game/Cryptography/Super Shifty (Easy).md",
     "cyb.md",
     "Individual Game/Open Source Intelligence/Honor (Easy).md",
     "attachments/Pasted image 20250411165323.png",
@@ -206,8 +208,6 @@
     "Individual Game/Cryptography",
     "Individual Game/Open Source Intelligence",
     "attachments/Pasted image 20250330103939.png",
-    "attachments/Pasted image 20250330094830.png",
-    "attachments/error-correction-level-1024x512.webp",
     "Gym/Enumeration and Exploitation/Python 3 (Medium).md",
     "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
     "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
