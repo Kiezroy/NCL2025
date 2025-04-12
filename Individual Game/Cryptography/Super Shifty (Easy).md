@@ -20,5 +20,7 @@ XziomvgKmjxznndib
 Q3 - 25 points  
 .. --.. - -... -..- .. --.. -.. ...- .--- .-. -.- -.-
 
+- First its Morse code encoded
 
+![](../../attachments/Pasted%20image%2020250411170954.png)
 
