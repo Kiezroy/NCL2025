@@ -43,6 +43,7 @@ What is the IP address of the server hosting `www.delta.com` in the first CONNEC
 
 - Filter for www.delta.com logs
 - Look at the first log
+- Use head to filter for just the first line
 
 ```
 ┌──(kali㉿kali)-[~/Downloads]
@@ -55,6 +56,7 @@ What is the IP address of the server hosting `www.delta.com` in the first CONNEC
 Q4 - 15 points  
 How many NONE_NONE/000 errors are present in the log?
 
+- Filter for the "NONE_NONE/000" 
 
 
 Q5 - 15 points  
