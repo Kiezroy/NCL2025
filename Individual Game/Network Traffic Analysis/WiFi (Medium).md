@@ -34,9 +34,14 @@ Q4 - 20 points
 What channel is the WiFi network running on?
 
 - Find a packet after the deauthentication ones
-- IEEE 802.11 Wireless Management > Tagged parameters > Tag: DS Parameter set
+- IEEE 802.11 Wireless Management > Tagged parameters > Tag: DS Parameter set: Current Channel : 4
+
+![](../../attachments/Pasted%20image%2020250413101525.png)
 
 `4`
 
 Q5 - 20 points  
 What is the password for the WiFi network?
+
+- Go to each packet that contains the Info stating "Key"
+
