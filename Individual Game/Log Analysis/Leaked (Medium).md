@@ -65,3 +65,19 @@ How many of the listed users are verified?
 Q5 - 30 points
 What is the state assigned to the most common phone area code? 
 
+- Create a SQL query to find the most common area code (first 3 digits)
+
+```
+SELECT 
+  SUBSTR(phone, 1, 3) AS area_code,
+  COUNT(*) AS count
+FROM Hacked_data
+GROUP BY area_code
+ORDER BY count DESC;
+
+```
+
+![](../../attachments/Pasted%20image%2020250413131645.png)
+
+- Area code is 364
+- A simple google loo
