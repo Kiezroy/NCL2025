@@ -6,6 +6,11 @@ Our analysts have retrieved password dumps from outdated Windows servers operate
 
 ![](../../attachments/Pasted%20image%2020250413113357.png)
 
+- Download the rainbow tables here: https://ophcrack.sourceforge.io/tables.php
+
+- Install the tables into the ophcrack tool and start cracking!
+
+
 
 
 
