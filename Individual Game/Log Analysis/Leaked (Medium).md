@@ -54,3 +54,10 @@ What is the email for the account with the most followers?
 Q4 - 20 points  
 How many of the listed users are verified?
 
+- Create a sql statement to find how many users are verified
+
+`SELECT is_verified, COUNT(*) AS count FROM Hacked_Data GROUP By is_verified;`
+
+![](../../attachments/Pasted%20image%2020250413121935.png)
+
+`464`
