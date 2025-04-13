@@ -11,7 +11,8 @@ What is the password to open the PDF file?
 ```
 ┌──(kali㉿kali)-[~/Downloads]
 └─$ pdf2john secure.pdf > secure_pdf.hash
-                                                                                                                                                                                     
+
+
 ┌──(kali㉿kali)-[~/Downloads]
 └─$ john secure_pdf.hash --wordlist=/usr/share/wordlists/rockyou.txt 
 Using default input encoding: UTF-8
@@ -26,5 +27,11 @@ Session completed.
 
 ```
 
+`pdfscott86`
+
 Q2 - 25 points  
 What is the flag?
+
+![](../../attachments/Pasted%20image%2020250413114341.png)
+
+`SKY-PDFS-2472`

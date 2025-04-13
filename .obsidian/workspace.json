@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Password Cracking/Totally Safe PDF (Medium).md",
+                "file": "Individual Game/Password Cracking/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Totally Safe PDF (Medium)"
+              "title": "Untitled"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Password Cracking/Totally Safe PDF (Medium).md",
+                "file": "Individual Game/Password Cracking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Totally Safe PDF (Medium)"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
-    "Individual Game/Password Cracking/Oph the Grid (Medium).md",
     "Individual Game/Password Cracking/Totally Safe PDF (Medium).md",
+    "Individual Game/Password Cracking/Untitled.md",
+    "attachments/Pasted image 20250413114341.png",
+    "Individual Game/Password Cracking/Oph the Grid (Medium).md",
     "attachments/Pasted image 20250413114007.png",
     "attachments/Pasted image 20250413113955.png",
     "attachments/Pasted image 20250413113357.png",
@@ -212,7 +214,6 @@
     "attachments/Pasted image 20250413094746.png",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
     "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
-    "attachments/Pasted image 20250413092330.png",
     "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
@@ -232,7 +233,6 @@
     "Individual Game/Password Cracking/Hash me outside! (Easy).md",
     "Individual Game/Cryptography/Pizza Time (Easy).md",
     "Individual Game/Cryptography/Super Shifty (Easy).md",
-    "Individual Game/Cryptography/The Bases (Easy).md",
     "Individual Game/Enumeration and Exploitation",
     "Individual Game/Wireless Acess Exploitation",
     "Individual Game/Web Application Exploitation",
