@@ -80,4 +80,4 @@ ORDER BY count DESC;
 ![](../../attachments/Pasted%20image%2020250413131645.png)
 
 - Area code is 364
-- A simple google loo
+- A simple google reveals that area code belongs to `Kentucky`
