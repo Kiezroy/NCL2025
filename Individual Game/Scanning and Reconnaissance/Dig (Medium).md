@@ -8,6 +8,10 @@ MAKE SURE TO USE THE DEVICE WITH THE resolver HOSTNAME IN THE PROVIDED TERMINAL 
 Q1 - 10 points  
 List one of the IPv4 addresses for `liber8.cityinthe.cloud`
 
+`dig liber8.cityinthe.cloud @resolver`
+
+- `@resolver` specifies the DNS server to look in
+
 
 
 Q2 - 15 points  
