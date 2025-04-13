@@ -16,14 +16,16 @@ What is the ESSID of the router?
 
 - Open a packet > IEE 802.11 Wireless Management > Tagged Parameters > Tag: SSID parameter set
 
-
+![](../../attachments/Pasted%20image%2020250413095629.png)
 
 `Wii Fii`
 
 Q3 - 20 points  
 What is the MAC address of the victim that was deauthenticated from the WiFi network?
 
+- Find the packet where the deauthe
 
+`02:38:aa:ae:9f:e6`
 
 Q4 - 20 points  
 What channel is the WiFi network running on?
