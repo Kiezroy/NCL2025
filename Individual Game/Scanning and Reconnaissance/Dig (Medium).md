@@ -12,10 +12,36 @@ List one of the IPv4 addresses for `liber8.cityinthe.cloud`
 
 - `@resolver` specifies the DNS server to look in
 
+```
+┌──(root㉿kali)-[~]
+└─# dig liber8.cityinthe.cloud @resolver
 
+; <<>> DiG 9.16.11-Debian <<>> liber8.cityinthe.cloud @resolver
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27501
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;liber8.cityinthe.cloud.                IN      A
+
+;; ANSWER SECTION:
+liber8.cityinthe.cloud. 3600    IN      A       23.151.187.212
+liber8.cityinthe.cloud. 3600    IN      A       43.71.247.55
+
+;; Query time: 0 msec
+;; SERVER: 10.7.71.132#53(10.7.71.132)
+;; WHEN: Sun Apr 13 01:01:41 UTC 2025
+;; MSG SIZE  rcvd: 83
+```
+
+`23.151.187.212`
 
 Q2 - 15 points  
 List one of the IPv6 addresses for `liber8.cityinthe.cloud`
+
 
 
 Q3 - 15 points  
