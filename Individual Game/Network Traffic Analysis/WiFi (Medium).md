@@ -33,7 +33,10 @@ What is the MAC address of the victim that was deauthenticated from the WiFi net
 Q4 - 20 points  
 What channel is the WiFi network running on?
 
+- Find a packet after the deauthentication ones
+- IEEE 802.11 Wireless Management > Tagged parameters > Tag: DS Parameter set
 
+`4`
 
 Q5 - 20 points  
 What is the password for the WiFi network?
