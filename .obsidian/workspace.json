@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
+                "file": "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dig (Medium)"
+              "title": "Controversial Challenge (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
+                "file": "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dig (Medium)"
+              "title": "Backlinks for Controversial Challenge (Medium)"
             }
           },
           {
@@ -197,7 +197,9 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250412182311.png",
     "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
+    "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
     "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "attachments/Pasted image 20250412174021.png",
@@ -240,8 +242,6 @@
     "Individual Game/Cryptography",
     "Individual Game/Open Source Intelligence",
     "Gym/Enumeration and Exploitation/Python 3 (Medium).md",
-    "Gym/Enumeration and Exploitation/Python 2 (Easy).md",
-    "Gym/Enumeration and Exploitation/Python 1 (Easy).md",
-    "Practice Game/Web Application Exploitation/Wordly (Easy).md"
+    "Gym/Enumeration and Exploitation/Python 2 (Easy).md"
   ]
 }
