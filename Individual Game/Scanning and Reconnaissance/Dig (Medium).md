@@ -141,7 +141,7 @@ What is the TTL for the redirect on `redirect.liber8.cityinthe.cloud`? (In secon
 Q6 - 15 points  
 What is the IPv4 address for the domain that `redirect.liber8.cityinthe.cloud` redirects to?
 
-- Query the 
+- Query the IPv4 Address for the redirected domain
 
 ```
 ┌──(root㉿kali)-[~]
@@ -171,3 +171,4 @@ r3d1r3ct3d.liber8.cityinthe.cloud. 3600 IN A    39.199.63.8
 
 Q7 - 15 points  
 What is the domain of the mail exchange server that handles the majority of the email for `mail.liber8.cityinthe.cloud`?
+
