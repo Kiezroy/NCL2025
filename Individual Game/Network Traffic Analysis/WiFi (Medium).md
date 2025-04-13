@@ -45,3 +45,5 @@ What is the password for the WiFi network?
 
 - Go to each packet that contains the Info stating "Key"
 
+![](../../attachments/Pasted%20image%2020250413101616.png)
+
