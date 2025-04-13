@@ -42,7 +42,7 @@ liber8.cityinthe.cloud. 3600    IN      A       43.71.247.55
 Q2 - 15 points  
 List one of the IPv6 addresses for `liber8.cityinthe.cloud`
 
-
+- Query for DNS record `AAAA` for IPv6
 
 Q3 - 15 points  
 What is the flag txt record for `flag.liber8.cityinthe.cloud`?
