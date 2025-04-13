@@ -1,7 +1,7 @@
 
 Our analysts have uncovered password dumps from the servers of the Liber8tion criminal group. All the passwords follow a curious pattern: **SKY-MASK-????**. Can you uncover the missing pieces?
 
-
+- First identify the hash ty
 
 | User                                                                                                       | Password Ciphertext            | Answer |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------ | ------ |
