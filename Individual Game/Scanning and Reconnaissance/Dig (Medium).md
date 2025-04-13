@@ -3,6 +3,8 @@ We've gained access to an internal DNS resolver that liber8tion has been using f
 
 MAKE SURE TO USE THE DEVICE WITH THE resolver HOSTNAME IN THE PROVIDED TERMINAL AS YOUR DNS RESOLVER
 
+- Use [`dig`](https://www.ibm.com/docs/pl/aix/7.1?topic=d-dig-command) command
+
 Q1 - 10 points  
 List one of the IPv4 addresses for `liber8.cityinthe.cloud`
 
