@@ -55,3 +55,6 @@ What is the flag contained in the DNS A and AAAA record for the domain, flag.com
 
 Q6 - 20 points  
 What is the average DNS payload size? (in bytes, rounded to 2 decimal points)
+
+- Filter for only DNS traffic
+- Compute the average for the traffic
