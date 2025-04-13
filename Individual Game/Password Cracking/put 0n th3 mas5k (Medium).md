@@ -9,7 +9,14 @@ Our analysts have uncovered password dumps from the servers of the Liber8tion cr
 - `-m 500` is the mode for md5crypt
 - Place all three hashes into a file to crack all at once
 
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat md5crypt_hashes.txt 
+$1$MASK$F4TXNX..S3nYzItvwpywa.
+$1$MASK$6GNQLeQG65VI6xusDOMnf0
+$1$MASK$DnjCzEUFZGK/O.4YOGcDw/
 
+```
 
 
 

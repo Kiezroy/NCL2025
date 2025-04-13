@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Log Analysis/Leaked (Medium).md",
+                "file": "Individual Game/Password Cracking/put 0n th3 mas5k (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leaked (Medium)"
+              "title": "put 0n th3 mas5k (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Log Analysis/Leaked (Medium).md",
+                "file": "Individual Game/Password Cracking/put 0n th3 mas5k (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Leaked (Medium)"
+              "title": "Backlinks for put 0n th3 mas5k (Medium)"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Log Analysis/Leaked (Medium).md",
     "attachments/Pasted image 20250413121935.png",
     "attachments/Pasted image 20250413121648.png",
     "attachments/Pasted image 20250413121614.png",
@@ -204,14 +205,12 @@
     "attachments/Pasted image 20250413121531.png",
     "attachments/Pasted image 20250413115735.png",
     "Individual Game/Password Cracking/put 0n th3 mas5k (Medium).md",
-    "Individual Game/Log Analysis/Leaked (Medium).md",
     "attachments/Pasted image 20250413114727.png",
     "Individual Game/Password Cracking/Totally Safe PDF (Medium).md",
     "attachments/Pasted image 20250413114341.png",
     "Individual Game/Password Cracking/Oph the Grid (Medium).md",
     "attachments/Pasted image 20250413114007.png",
     "attachments/Pasted image 20250413113955.png",
-    "attachments/Pasted image 20250413113357.png",
     "Individual Game/Forensics/Oops (Medium).md",
     "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
