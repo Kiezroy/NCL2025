@@ -62,5 +62,6 @@ How many of the listed users are verified?
 
 `464`
 
-Q
+Q5 - 30 points
 What is the state assigned to the most common phone area code? 
+
