@@ -172,3 +172,7 @@ r3d1r3ct3d.liber8.cityinthe.cloud. 3600 IN A    39.199.63.8
 Q7 - 15 points  
 What is the domain of the mail exchange server that handles the majority of the email for `mail.liber8.cityinthe.cloud`?
 
+
+
+
+`mx1.liber8.cityinthe.cloud`
