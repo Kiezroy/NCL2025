@@ -13,9 +13,19 @@ How many users were compromised in this breach?
 Q2 - 20 points  
 What is the date and time (in UTC) of the first account to join the social media site? Round to the nearest minute.
 
-- This is the first account
+- Create a database with the table `Hacked_data`
+- Replicate the same fields 
 
-`insert into Hacked_data (email, phone, followers_count, following_count, join_date, is_verified, post_likes_avg, post_comments_avg) values ('vpepper0@cityinthe.cloud', '856-161-9145', 799, 204, '1742814687000', true, 588, 23);`
+`CREATE TABLE "Hacked_data" (
+	"email"	TEXT,
+	"phone"	TEXT,
+	"followers_count"	INTEGER,
+	"following_count"	INTEGER,
+	"join_date"	INTEGER,
+	"is_verified"	INTEGER,
+	"post_likes_avg"	INTEGER,
+	"post_comments_avg"	INTEGER
+)`
 
 - The `join_date` value is `1742814687000` which is a timestamp in the Epoch Unix format
 - Use a [converter](https://www.epochconverter.com/) to covert to human readable time
