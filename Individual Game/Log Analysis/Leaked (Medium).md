@@ -33,17 +33,19 @@ CREATE TABLE "Hacked_data" (
 
 ![](../../attachments/Pasted%20image%2020250413121531.png)
 
-- The `join_date` value is `1742814687000` which is a timestamp in the Epoch Unix format
+![](../../attachments/Pasted%20image%2020250413121556.png)
+
+- The `join_date` value is `1742601698000` which is a timestamp in the Epoch Unix format
 - Use a [converter](https://www.epochconverter.com/) to covert to human readable time
 
-![](../../attachments/Pasted%20image%2020250413115735.png)
+![](../../attachments/Pasted%20image%2020250413121614.png)
 
-`Monday, March 24, 2025 4:11:27 AM`
+`Saturday, March 22, 2025 12:01:38 AM`
 
 Q3 - 20 points  
 What is the email for the account with the most followers?
 
-
+- Sort by `followers_count`
 
 
 Q4 - 20 points  
