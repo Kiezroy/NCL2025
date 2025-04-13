@@ -2,7 +2,9 @@
 Our analysts have retrieved password dumps from outdated Windows servers operated by the Liber8tion criminal group. Can you crack these passwords?
 
 
-- Utilize ophcrack since these are Windows ha
+- Utilize [ophcrack](https://ophcrack.sourceforge.io/) since these are Windows hashes
+
+![](../../attachments/Pasted%20image%2020250413113357.png)
 
 
 
