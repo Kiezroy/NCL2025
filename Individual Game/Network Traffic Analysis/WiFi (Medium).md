@@ -26,7 +26,7 @@ What is the MAC address of the victim that was deauthenticated from the WiFi net
 - Find the packet where the deauthentication starts
 - Source address > MS-NLB-PhysServer-32_18
 
-
+![](../../attachments/Pasted%20image%2020250413095838.png)
 
 `02:38:aa:ae:9f:e6`
 
