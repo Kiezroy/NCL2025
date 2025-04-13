@@ -132,9 +132,15 @@ redirect.liber8.cityinthe.cloud. 600 IN CNAME   r3d1r3ct3d.liber8.cityinthe.clou
 Q5 - 15 points  
 What is the TTL for the redirect on `redirect.liber8.cityinthe.cloud`? (In seconds)
 
- 
+- Refer to the code that was queried above
+
+`redirect.liber8.cityinthe.cloud. 600 IN CNAME   r3d1r3ct3d.liber8.cityinthe.cloud.`
+
+`600`
+
 Q6 - 15 points  
 What is the IPv4 address for the domain that `redirect.liber8.cityinthe.cloud` redirects to?
+
 
 
 Q7 - 15 points  
