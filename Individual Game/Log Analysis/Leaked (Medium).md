@@ -13,8 +13,11 @@ How many users were compromised in this breach?
 Q2 - 20 points  
 What is the date and time (in UTC) of the first account to join the social media site? Round to the nearest minute.
 
+- This is the first account
 
+`insert into Hacked_data (email, phone, followers_count, following_count, join_date, is_verified, post_likes_avg, post_comments_avg) values ('vpepper0@cityinthe.cloud', '856-161-9145', 799, 204, '1742814687000', true, 588, 23);`
 
+- The `join_date` value is `1742814687000` which is the time in Ep
 
 Q3 - 20 points  
 What is the email for the account with the most followers?
