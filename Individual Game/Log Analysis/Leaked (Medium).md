@@ -17,7 +17,12 @@ What is the date and time (in UTC) of the first account to join the social media
 
 `insert into Hacked_data (email, phone, followers_count, following_count, join_date, is_verified, post_likes_avg, post_comments_avg) values ('vpepper0@cityinthe.cloud', '856-161-9145', 799, 204, '1742814687000', true, 588, 23);`
 
-- The `join_date` value is `1742814687000` which is the time in Ep
+- The `join_date` value is `1742814687000` which is a timestamp in the Epoch Unix format
+- Use a [converter](https://www.epochconverter.com/) to covert to human readable time
+
+![](../../attachments/Pasted%20image%2020250413115735.png)
+
+`Monday, March 24, 2025 4:11:27 AM`
 
 Q3 - 20 points  
 What is the email for the account with the most followers?
