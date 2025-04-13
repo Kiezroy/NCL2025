@@ -4,6 +4,7 @@ We've gained access to an internal DNS resolver that liber8tion has been using f
 MAKE SURE TO USE THE DEVICE WITH THE resolver HOSTNAME IN THE PROVIDED TERMINAL AS YOUR DNS RESOLVER
 
 - Use [`dig`](https://www.ibm.com/docs/pl/aix/7.1?topic=d-dig-command) command
+- Refer to [DNS records](https://www.cloudflare.com/learning/dns/dns-records/)
 
 Q1 - 10 points  
 List one of the IPv4 addresses for `liber8.cityinthe.cloud`
@@ -44,8 +45,35 @@ List one of the IPv6 addresses for `liber8.cityinthe.cloud`
 
 - Query for DNS record `AAAA` for IPv6
 
+```
+┌──(root㉿kali)-[~]
+└─# dig liber8.cityinthe.cloud @resolver AAAA
+
+; <<>> DiG 9.16.11-Debian <<>> liber8.cityinthe.cloud @resolver AAAA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44219
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;liber8.cityinthe.cloud.                IN      AAAA
+
+;; ANSWER SECTION:
+liber8.cityinthe.cloud. 3600    IN      AAAA    2ecd:b3d:2f0c:e72b:da9:f4ee:81e:d62d
+
+;; Query time: 0 msec
+;; SERVER: 10.7.71.132#53(10.7.71.132)
+;; WHEN: Sun Apr 13 01:03:51 UTC 2025
+;; MSG SIZE  rcvd: 79
+```
+
+`2ecd:b3d:2f0c:e72b:da9:f4ee:81e:d62d`
+
 Q3 - 15 points  
 What is the flag txt record for `flag.liber8.cityinthe.cloud`?
+
 
 
 Q4 - 15 points  
