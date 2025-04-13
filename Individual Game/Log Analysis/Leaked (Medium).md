@@ -47,6 +47,10 @@ What is the email for the account with the most followers?
 
 - Sort by `followers_count`
 
+![](../../attachments/Pasted%20image%2020250413121648.png)
+
+`kvolantge@cityinthe.cloud`
 
 Q4 - 20 points  
 How many of the listed users are verified?
+
