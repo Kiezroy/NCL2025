@@ -198,5 +198,8 @@ mail.liber8.cityinthe.cloud. 3600 IN    MX      1 mx1.liber8.cityinthe.cloud.
 ;; MSG SIZE  rcvd: 116
 ```
 
+- `mail.liber8.cityinthe.cloud. 3600 IN    MX      1 mx1.liber8.cityinthe.cloud`
+- The `1` value in the record indicates the priority / preference value
+- This should mean that it will handle most of the mail traffic
 
 `mx1.liber8.cityinthe.cloud`
