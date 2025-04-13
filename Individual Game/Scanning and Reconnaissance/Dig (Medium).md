@@ -172,7 +172,31 @@ r3d1r3ct3d.liber8.cityinthe.cloud. 3600 IN A    39.199.63.8
 Q7 - 15 points  
 What is the domain of the mail exchange server that handles the majority of the email for `mail.liber8.cityinthe.cloud`?
 
+```
+┌──(root㉿kali)-[~]
+└─# dig mail.liber8.cityinthe.cloud @resolver MX
 
+; <<>> DiG 9.16.11-Debian <<>> mail.liber8.cityinthe.cloud @resolver MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59961
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;mail.liber8.cityinthe.cloud.   IN      MX
+
+;; ANSWER SECTION:
+mail.liber8.cityinthe.cloud. 3600 IN    MX      50 mx2.liber8.cityinthe.cloud.
+mail.liber8.cityinthe.cloud. 3600 IN    MX      10 mx3.liber8.cityinthe.cloud.
+mail.liber8.cityinthe.cloud. 3600 IN    MX      1 mx1.liber8.cityinthe.cloud.
+
+;; Query time: 1 msec
+;; SERVER: 10.7.71.135#53(10.7.71.135)
+;; WHEN: Sun Apr 13 01:18:52 UTC 2025
+;; MSG SIZE  rcvd: 116
+```
 
 
 `mx1.liber8.cityinthe.cloud`
