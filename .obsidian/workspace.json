@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
+                "file": "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Not Affine (Easy)"
+              "title": "Portscan (Easy)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
+                "file": "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Not Affine (Easy)"
+              "title": "Backlinks for Portscan (Easy)"
             }
           },
           {
@@ -197,10 +197,11 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
+    "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "attachments/Pasted image 20250412174021.png",
     "attachments/Pasted image 20250412173751.png",
     "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
-    "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "attachments/Pasted image 20250412101500.png",
     "attachments/Pasted image 20250412101453.png",
     "attachments/Pasted image 20250412101440.png",
@@ -220,7 +221,6 @@
     "README.md",
     "cyb.md",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
-    "attachments/Pasted image 20250412081631.png",
     "Individual Game/Log Analysis/Ancient History (Easy).md",
     "Individual Game/Password Cracking/We Will Rockyou (Easy).md",
     "Individual Game/Password Cracking/Hash me outside! (Easy).md",
