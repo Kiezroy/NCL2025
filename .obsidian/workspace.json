@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Enumeration and Exploitation/Untitled.md",
+                "file": "Individual Game/Enumeration and Exploitation/CrackMe (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "CrackMe (Medium)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Enumeration and Exploitation/Untitled.md",
+                "file": "Individual Game/Enumeration and Exploitation/CrackMe (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for CrackMe (Medium)"
             }
           },
           {
@@ -183,7 +183,7 @@
   "active": "411bcbc8a6f13acc",
   "lastOpenFiles": [
     "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
-    "Individual Game/Enumeration and Exploitation/Untitled.md",
+    "Individual Game/Enumeration and Exploitation/CrackMe (Medium).md",
     "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
     "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
