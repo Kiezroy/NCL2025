@@ -61,3 +61,6 @@ How many of the listed users are verified?
 ![](../../attachments/Pasted%20image%2020250413121935.png)
 
 `464`
+
+Q
+What is the state assigned to the most common phone area code? 
