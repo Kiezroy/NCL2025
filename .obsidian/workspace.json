@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
+                "file": "Individual Game/Forensics/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WiFi (Medium)"
+              "title": "Untitled"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
+                "file": "Individual Game/Forensics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WiFi (Medium)"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -197,13 +197,14 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
+    "Individual Game/Forensics/Untitled.md",
     "attachments/Pasted image 20250413101616.png",
     "attachments/Pasted image 20250413101525.png",
     "attachments/Pasted image 20250413095838.png",
     "attachments/Pasted image 20250413095629.png",
     "attachments/Pasted image 20250413094746.png",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
-    "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
     "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
     "attachments/Pasted image 20250413092330.png",
     "attachments/Pasted image 20250413091735.png",
@@ -215,7 +216,6 @@
     "attachments/Pasted image 20250412174021.png",
     "attachments/Pasted image 20250412173751.png",
     "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
-    "attachments/Pasted image 20250412101500.png",
     "Individual Game/Forensics/Overused (Easy).md",
     "Gym/Forensics/Docter (Medium).md",
     "Gym/Log Analysis/Login (Easy).md",
