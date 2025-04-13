@@ -43,7 +43,5 @@ What channel is the WiFi network running on?
 Q5 - 20 points  
 What is the password for the WiFi network?
 
-- Go to each packet that contains the Info stating "Key"
-
-![](../../attachments/Pasted%20image%2020250413101616.png)
+- Use aircrack-ng with wordlist rockyou.txt to crack the password
 
