@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
+                "file": "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lost In Resolution (Easy)"
+              "title": "WiFi (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
+                "file": "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lost In Resolution (Easy)"
+              "title": "Backlinks for WiFi (Medium)"
             }
           },
           {
@@ -195,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5073248fafa9b7b9",
+  "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
+    "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
     "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
     "attachments/Pasted image 20250413092330.png",
     "attachments/Pasted image 20250413091735.png",
@@ -222,7 +224,6 @@
     "Gym/Forensics/PDF (Easy).md",
     "README.md",
     "cyb.md",
-    "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
     "Individual Game/Log Analysis/Ancient History (Easy).md",
     "Individual Game/Password Cracking/We Will Rockyou (Easy).md",
     "Individual Game/Password Cracking/Hash me outside! (Easy).md",
