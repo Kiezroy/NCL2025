@@ -11,6 +11,8 @@ Our analysts have uncovered password dumps from the servers of the Liber8tion cr
 
 
 
+
+
 | User                                                                                                       | Password Ciphertext              | Answer |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------- | ------ |
 | ![](https://assets.cyberskyline.com/img/avatars/small/nan.jpg?t=3)<br><br>Nan<br><br>10 points             | `$1$MASK$F4TXNX..S3nYzItvwpywa.` |        |
