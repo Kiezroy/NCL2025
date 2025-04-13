@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
+                "file": "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controversial Challenge (Medium)"
+              "title": "Liber8tion_Login (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
+                "file": "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Controversial Challenge (Medium)"
+              "title": "Backlinks for Liber8tion_Login (Medium)"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
+    "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
     "attachments/Pasted image 20250412182311.png",
     "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
-    "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
     "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "attachments/Pasted image 20250412174021.png",
@@ -219,7 +220,6 @@
     "Gym/Forensics/Version Control (Easy).md",
     "Gym/Forensics/PDF (Easy).md",
     "attachments/Pasted image 20250412090448.png",
-    "attachments/Pasted image 20250412090052.jpg",
     "README.md",
     "cyb.md",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
