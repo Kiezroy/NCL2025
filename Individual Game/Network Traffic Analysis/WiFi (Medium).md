@@ -23,7 +23,10 @@ What is the ESSID of the router?
 Q3 - 20 points  
 What is the MAC address of the victim that was deauthenticated from the WiFi network?
 
-- Find the packet where the deauthe
+- Find the packet where the deauthentication starts
+- Source address > MS-NLB-PhysServer-32_18
+
+
 
 `02:38:aa:ae:9f:e6`
 
