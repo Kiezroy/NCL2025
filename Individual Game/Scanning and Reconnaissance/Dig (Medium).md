@@ -141,7 +141,33 @@ What is the TTL for the redirect on `redirect.liber8.cityinthe.cloud`? (In secon
 Q6 - 15 points  
 What is the IPv4 address for the domain that `redirect.liber8.cityinthe.cloud` redirects to?
 
+- Query the 
 
+```
+┌──(root㉿kali)-[~]
+└─# dig r3d1r3ct3d.liber8.cityinthe.cloud @resolver A
+
+; <<>> DiG 9.16.11-Debian <<>> r3d1r3ct3d.liber8.cityinthe.cloud @resolver A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54799
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;r3d1r3ct3d.liber8.cityinthe.cloud. IN  A
+
+;; ANSWER SECTION:
+r3d1r3ct3d.liber8.cityinthe.cloud. 3600 IN A    39.199.63.8
+
+;; Query time: 1 msec
+;; SERVER: 10.7.71.132#53(10.7.71.132)
+;; WHEN: Sun Apr 13 01:14:13 UTC 2025
+;; MSG SIZE  rcvd: 78
+```
+
+`39.199.63.8`
 
 Q7 - 15 points  
 What is the domain of the mail exchange server that handles the majority of the email for `mail.liber8.cityinthe.cloud`?
