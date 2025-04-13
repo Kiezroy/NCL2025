@@ -14,7 +14,11 @@ What is the MAC address of the router?
 Q2 - 20 points  
 What is the ESSID of the router?
 
+- Open a packet > IEE 802.11 Wireless Management > Tagged Parameters > Tag: SSID parameter set
 
+
+
+`Wii Fii`
 
 Q3 - 20 points  
 What is the MAC address of the victim that was deauthenticated from the WiFi network?
