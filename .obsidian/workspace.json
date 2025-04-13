@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Game/Forensics/Oops (Medium).md",
+                "file": "Individual Game/Password Cracking/Oph the Grid (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oops (Medium)"
+              "title": "Oph the Grid (Medium)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Forensics/Oops (Medium).md",
+                "file": "Individual Game/Password Cracking/Oph the Grid (Medium).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Oops (Medium)"
+              "title": "Backlinks for Oph the Grid (Medium)"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "04d6c34ac370b474",
   "lastOpenFiles": [
+    "Individual Game/Forensics/Oops (Medium).md",
+    "Individual Game/Password Cracking/Oph the Grid (Medium).md",
     "attachments/Pasted image 20250413111149.png",
     "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
-    "Individual Game/Forensics/Oops (Medium).md",
     "attachments/Pasted image 20250413101616.png",
     "attachments/Pasted image 20250413101525.png",
     "attachments/Pasted image 20250413095838.png",
@@ -215,7 +216,6 @@
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
     "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "attachments/Pasted image 20250412174021.png",
-    "attachments/Pasted image 20250412173751.png",
     "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
     "Individual Game/Forensics/Overused (Easy).md",
     "Gym/Forensics/Docter (Medium).md",
