@@ -74,11 +74,60 @@ liber8.cityinthe.cloud. 3600    IN      AAAA    2ecd:b3d:2f0c:e72b:da9:f4ee:81e:
 Q3 - 15 points  
 What is the flag txt record for `flag.liber8.cityinthe.cloud`?
 
+```
+┌──(root㉿kali)-[~]
+└─# dig flag.liber8.cityinthe.cloud @resolver TXT
 
+; <<>> DiG 9.16.11-Debian <<>> flag.liber8.cityinthe.cloud @resolver TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49619
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;flag.liber8.cityinthe.cloud.   IN      TXT
+
+;; ANSWER SECTION:
+flag.liber8.cityinthe.cloud. 3600 IN    TXT     "SKY-XJPO-5751"
+
+;; Query time: 0 msec
+;; SERVER: 10.7.71.132#53(10.7.71.132)
+;; WHEN: Sun Apr 13 01:11:32 UTC 2025
+;; MSG SIZE  rcvd: 82
+```
+
+`SKY-XJPO-5751`
 
 Q4 - 15 points  
 What is the domain that `redirect.liber8.cityinthe.cloud` redirects to?
 
+```
+┌──(root㉿kali)-[~]
+└─# dig redirect.liber8.cityinthe.cloud @resolver
+
+; <<>> DiG 9.16.11-Debian <<>> redirect.liber8.cityinthe.cloud @resolver
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12440
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;redirect.liber8.cityinthe.cloud. IN    A
+
+;; ANSWER SECTION:
+redirect.liber8.cityinthe.cloud. 600 IN CNAME   r3d1r3ct3d.liber8.cityinthe.cloud.
+
+;; Query time: 1 msec
+;; SERVER: 10.7.71.132#53(10.7.71.132)
+;; WHEN: Sun Apr 13 01:12:17 UTC 2025
+;; MSG SIZE  rcvd: 85
+```
+
+`r3d1r3ct3d.liber8.cityinthe.cloud`
 
 Q5 - 15 points  
 What is the TTL for the redirect on `redirect.liber8.cityinthe.cloud`? (In seconds)
