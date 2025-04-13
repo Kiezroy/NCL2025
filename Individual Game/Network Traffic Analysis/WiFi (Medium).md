@@ -5,7 +5,11 @@ A wireless network was compromised by liber8tion. Analyze the packet capture and
 Q1 - 20 points  
 What is the MAC address of the router?
 
+- Look at the source address for TpLinkTechno
 
+![](../../attachments/Pasted%20image%2020250413094746.png)
+
+`c0:4a:00:80:76:e4`
 
 Q2 - 20 points  
 What is the ESSID of the router?
