@@ -15,9 +15,19 @@ Our analysts have uncovered password dumps from the servers of the Liber8tion cr
 $1$MASK$F4TXNX..S3nYzItvwpywa.
 $1$MASK$6GNQLeQG65VI6xusDOMnf0
 $1$MASK$DnjCzEUFZGK/O.4YOGcDw/
-
 ```
 
+- Crack use brute force mode `-a 3`
+- Use the `?a` to brute force letters, digits, and special characters
+
+```
+┌──(kali㉿kali)-[~/Downloads]
+└─$ hashcat -m 500 -a 3 md5crypt_hashes.txt SKY-MASK-?a?a?a?a
+
+$1$MASK$F4TXNX..S3nYzItvwpywa.:SKY-MASK-2923 
+
+
+```
 
 
 | User                                                                                                       | Password Ciphertext              | Answer |
