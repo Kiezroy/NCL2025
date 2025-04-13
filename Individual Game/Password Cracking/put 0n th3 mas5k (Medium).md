@@ -6,6 +6,8 @@ Our analysts have uncovered password dumps from the servers of the Liber8tion cr
 ![](../../attachments/Pasted%20image%2020250413114727.png)
 
 - Looks like its most likely md5crypt, so use the hashcat tool to crack it
+- `-m 500` is the mode for md5crypt
+- Place all three hashes into a file to crack all at once
 
 
 
