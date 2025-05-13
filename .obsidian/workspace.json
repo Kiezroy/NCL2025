@@ -11,10 +11,14 @@
             "id": "a7f7f120d1c5d9f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lost In Resolution (Easy)"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Game/Enumeration and Exploitation/CrackMe (Medium).md",
+                "file": "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CrackMe (Medium)"
+              "title": "Backlinks for Lost In Resolution (Easy)"
             }
           },
           {
@@ -176,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5073248fafa9b7b9",
+  "active": "a7f7f120d1c5d9f5",
   "lastOpenFiles": [
+    "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
+    "Individual Game/Open Source Intelligence/Rules of Conduct (Easy).md",
+    "Individual Game/Open Source Intelligence/Honor (Easy).md",
+    "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
     "Team Game",
     "attachments/Pasted image 20250413152250.png",
     "attachments/Pasted image 20250413152152.png",
@@ -190,7 +198,6 @@
     "attachments/Pasted image 20250413150131.png",
     "Individual Game/Web Application Exploitation/Liber8Dogs (Easy).md",
     "Individual Game/Enumeration and Exploitation/CrackMe (Medium).md",
-    "Individual Game/Network Traffic Analysis/WiFi (Medium).md",
     "Individual Game/Scanning and Reconnaissance/Portscan (Easy).md",
     "Individual Game/Scanning and Reconnaissance/Dig (Medium).md",
     "Individual Game/Log Analysis/Leaked (Medium).md",
@@ -201,7 +208,6 @@
     "Individual Game/Forensics/Oops (Medium).md",
     "Individual Game/Network Traffic Analysis/Lost In Resolution (Easy).md",
     "Individual Game/Web Application Exploitation/Liber8tion_Login (Medium).md",
-    "Individual Game/Open Source Intelligence/Controversial Challenge (Medium).md",
     "Individual Game/Enumeration and Exploitation/Not Affine (Easy).md",
     "Individual Game/Forensics/Overused (Easy).md",
     "Gym/Forensics/Docter (Medium).md",
@@ -213,7 +219,6 @@
     "README.md",
     "cyb.md",
     "Individual Game/Log Analysis/Ancient History (Easy).md",
-    "Individual Game/Password Cracking/We Will Rockyou (Easy).md",
     "Individual Game/Enumeration and Exploitation",
     "Individual Game/Wireless Acess Exploitation",
     "Individual Game/Web Application Exploitation",
@@ -222,7 +227,6 @@
     "Individual Game/Log Analysis",
     "Individual Game/Forensics",
     "Individual Game/Password Cracking",
-    "Individual Game/Cryptography",
-    "Individual Game/Open Source Intelligence"
+    "Individual Game/Cryptography"
   ]
 }
